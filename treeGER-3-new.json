@@ -1,0 +1,951 @@
+{
+    "Germany": {
+        "label": "Q183",
+        "subdivision": {
+            "Baden-W\u00fcrttemberg": {
+                "label": "Q985",
+                "subdivision": {
+                    "Freiburg Government Region": {
+                        "label": "Q8167",
+                        "subdivision": {}
+                    },
+                    "Karlsruhe Government Region": {
+                        "label": "Q8165",
+                        "subdivision": {}
+                    },
+                    "Stuttgart Government Region": {
+                        "label": "Q8172",
+                        "subdivision": {}
+                    },
+                    "T\u00fcbingen Government Region": {
+                        "label": "Q8170",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Bavaria": {
+                "label": "Q980",
+                "subdivision": {
+                    "Lower Bavaria": {
+                        "label": "Q10559",
+                        "subdivision": {}
+                    },
+                    "Lower Franconia": {
+                        "label": "Q10547",
+                        "subdivision": {}
+                    },
+                    "Middle Franconia": {
+                        "label": "Q10551",
+                        "subdivision": {}
+                    },
+                    "Swabia": {
+                        "label": "Q10557",
+                        "subdivision": {}
+                    },
+                    "Upper Bavaria": {
+                        "label": "Q10562",
+                        "subdivision": {}
+                    },
+                    "Upper Franconia": {
+                        "label": "Q10554",
+                        "subdivision": {}
+                    },
+                    "Upper Palatinate": {
+                        "label": "Q10555",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Berlin": {
+                "label": "Q64",
+                "subdivision": {
+                    "Charlottenburg-Wilmersdorf": {
+                        "label": "Q158095",
+                        "subdivision": {}
+                    },
+                    "Friedrichshain-Kreuzberg": {
+                        "label": "Q158893",
+                        "subdivision": {}
+                    },
+                    "Lichtenberg": {
+                        "label": "Q329609",
+                        "subdivision": {}
+                    },
+                    "Marzahn-Hellersdorf": {
+                        "label": "Q119284",
+                        "subdivision": {}
+                    },
+                    "Mitte": {
+                        "label": "Q163966",
+                        "subdivision": {}
+                    },
+                    "Neuk\u00f6lln": {
+                        "label": "Q4071168",
+                        "subdivision": {}
+                    },
+                    "Pankow": {
+                        "label": "Q163012",
+                        "subdivision": {}
+                    },
+                    "Reinickendorf": {
+                        "label": "Q158876",
+                        "subdivision": {}
+                    },
+                    "Spandau": {
+                        "label": "Q158083",
+                        "subdivision": {}
+                    },
+                    "Steglitz-Zehlendorf": {
+                        "label": "Q158064",
+                        "subdivision": {}
+                    },
+                    "Tempelhof-Sch\u00f6neberg": {
+                        "label": "Q158106",
+                        "subdivision": {}
+                    },
+                    "Treptow-K\u00f6penick": {
+                        "label": "Q158089",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Brandenburg": {
+                "label": "Q1208",
+                "subdivision": {
+                    "Barnim District": {
+                        "label": "Q6115",
+                        "subdivision": {}
+                    },
+                    "Brandenburg an der Havel": {
+                        "label": "Q3931",
+                        "subdivision": {}
+                    },
+                    "Cottbus": {
+                        "label": "Q3214",
+                        "subdivision": {}
+                    },
+                    "Dahme-Spreewald District": {
+                        "label": "Q6173",
+                        "subdivision": {}
+                    },
+                    "Elbe-Elster District": {
+                        "label": "Q6152",
+                        "subdivision": {}
+                    },
+                    "Frankfurt (Oder)": {
+                        "label": "Q4024",
+                        "subdivision": {}
+                    },
+                    "Havelland District": {
+                        "label": "Q6139",
+                        "subdivision": {}
+                    },
+                    "M\u00e4rkisch-Oderland District": {
+                        "label": "Q6181",
+                        "subdivision": {}
+                    },
+                    "Oberhavel District": {
+                        "label": "Q6119",
+                        "subdivision": {}
+                    },
+                    "Oberspreewald-Lausitz District": {
+                        "label": "Q6156",
+                        "subdivision": {}
+                    },
+                    "Oder-Spree District": {
+                        "label": "Q6178",
+                        "subdivision": {}
+                    },
+                    "Ostprignitz-Ruppin District": {
+                        "label": "Q6125",
+                        "subdivision": {}
+                    },
+                    "Potsdam": {
+                        "label": "Q1711",
+                        "subdivision": {}
+                    },
+                    "Potsdam-Mittelmark District": {
+                        "label": "Q6142",
+                        "subdivision": {}
+                    },
+                    "Prignitz District": {
+                        "label": "Q6132",
+                        "subdivision": {}
+                    },
+                    "Spree-Nei\u00dfe District": {
+                        "label": "Q6165",
+                        "subdivision": {}
+                    },
+                    "Teltow-Fl\u00e4ming District": {
+                        "label": "Q6146",
+                        "subdivision": {}
+                    },
+                    "Uckermark District": {
+                        "label": "Q6109",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Free Hanseatic City of Bremen": {
+                "label": "Q1209",
+                "subdivision": {
+                    "Bremen": {
+                        "label": "Q24879",
+                        "subdivision": {}
+                    },
+                    "Bremerhaven": {
+                        "label": "Q2706",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Hamburg": {
+                "label": "Q1055",
+                "subdivision": {
+                    "Altona": {
+                        "label": "Q1630",
+                        "subdivision": {}
+                    },
+                    "Bergedorf": {
+                        "label": "Q1637",
+                        "subdivision": {}
+                    },
+                    "Eimsb\u00fcttel": {
+                        "label": "Q1632",
+                        "subdivision": {}
+                    },
+                    "Hamburg-Mitte": {
+                        "label": "Q1626",
+                        "subdivision": {}
+                    },
+                    "Hamburg-Nord": {
+                        "label": "Q1627",
+                        "subdivision": {}
+                    },
+                    "Harburg": {
+                        "label": "Q1635",
+                        "subdivision": {}
+                    },
+                    "Wandsbek": {
+                        "label": "Q1633",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Hesse": {
+                "label": "Q1199",
+                "subdivision": {
+                    "Darmstadt Government Region": {
+                        "label": "Q7932",
+                        "subdivision": {}
+                    },
+                    "Giessen Government Region": {
+                        "label": "Q7931",
+                        "subdivision": {}
+                    },
+                    "Kassel Government Region": {
+                        "label": "Q7928",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Lower Saxony": {
+                "label": "Q1197",
+                "subdivision": {
+                    "Ammerland": {
+                        "label": "Q5947",
+                        "subdivision": {}
+                    },
+                    "Aurich": {
+                        "label": "Q5929",
+                        "subdivision": {}
+                    },
+                    "Brunswick": {
+                        "label": "Q2773",
+                        "subdivision": {}
+                    },
+                    "Celle (district)": {
+                        "label": "Q5919",
+                        "subdivision": {}
+                    },
+                    "Cloppenburg": {
+                        "label": "Q5945",
+                        "subdivision": {}
+                    },
+                    "County of Bentheim": {
+                        "label": "Q5939",
+                        "subdivision": {}
+                    },
+                    "Cuxhaven": {
+                        "label": "Q5897",
+                        "subdivision": {}
+                    },
+                    "Delmenhorst": {
+                        "label": "Q3907",
+                        "subdivision": {}
+                    },
+                    "Diepholz": {
+                        "label": "Q5956",
+                        "subdivision": {}
+                    },
+                    "Emden": {
+                        "label": "Q4174",
+                        "subdivision": {}
+                    },
+                    "Emsland": {
+                        "label": "Q5936",
+                        "subdivision": {}
+                    },
+                    "Friesland": {
+                        "label": "Q5932",
+                        "subdivision": {}
+                    },
+                    "Gifhorn": {
+                        "label": "Q6053",
+                        "subdivision": {}
+                    },
+                    "Goslar": {
+                        "label": "Q6040",
+                        "subdivision": {}
+                    },
+                    "G\u00f6ttingen district": {
+                        "label": "Q6022",
+                        "subdivision": {}
+                    },
+                    "Hamelin-Pyrmont": {
+                        "label": "Q5970",
+                        "subdivision": {}
+                    },
+                    "Hanover region": {
+                        "label": "Q5963",
+                        "subdivision": {}
+                    },
+                    "Harburg": {
+                        "label": "Q5907",
+                        "subdivision": {}
+                    },
+                    "Heidekreis": {
+                        "label": "Q5922",
+                        "subdivision": {}
+                    },
+                    "Helmstedt district": {
+                        "label": "Q6047",
+                        "subdivision": {}
+                    },
+                    "Hildesheim": {
+                        "label": "Q5978",
+                        "subdivision": {}
+                    },
+                    "Holzminden": {
+                        "label": "Q5973",
+                        "subdivision": {}
+                    },
+                    "Landkreis Nienburg/Weser": {
+                        "label": "Q5958",
+                        "subdivision": {}
+                    },
+                    "Leer": {
+                        "label": "Q5934",
+                        "subdivision": {}
+                    },
+                    "L\u00fcchow-Dannenberg District": {
+                        "label": "Q5913",
+                        "subdivision": {}
+                    },
+                    "L\u00fcneburg": {
+                        "label": "Q5910",
+                        "subdivision": {}
+                    },
+                    "Northeim": {
+                        "label": "Q6018",
+                        "subdivision": {}
+                    },
+                    "Oldenburg": {
+                        "label": "Q5952",
+                        "subdivision": {}
+                    },
+                    "Osnabr\u00fcck": {
+                        "label": "Q5940",
+                        "subdivision": {}
+                    },
+                    "Osterholz": {
+                        "label": "Q5926",
+                        "subdivision": {}
+                    },
+                    "Peine": {
+                        "label": "Q6045",
+                        "subdivision": {}
+                    },
+                    "Rotenburg (W\u00fcmme)": {
+                        "label": "Q5923",
+                        "subdivision": {}
+                    },
+                    "Salzgitter": {
+                        "label": "Q3200",
+                        "subdivision": {}
+                    },
+                    "Schaumburg": {
+                        "label": "Q5966",
+                        "subdivision": {}
+                    },
+                    "Stade": {
+                        "label": "Q5906",
+                        "subdivision": {}
+                    },
+                    "Uelzen District": {
+                        "label": "Q5915",
+                        "subdivision": {}
+                    },
+                    "Vechta": {
+                        "label": "Q5941",
+                        "subdivision": {}
+                    },
+                    "Verden": {
+                        "label": "Q5927",
+                        "subdivision": {}
+                    },
+                    "Wesermarsch": {
+                        "label": "Q5948",
+                        "subdivision": {}
+                    },
+                    "Wilhelmshaven": {
+                        "label": "Q3857",
+                        "subdivision": {}
+                    },
+                    "Wittmund": {
+                        "label": "Q5931",
+                        "subdivision": {}
+                    },
+                    "Wolfenb\u00fcttel": {
+                        "label": "Q6041",
+                        "subdivision": {}
+                    },
+                    "Wolfsburg": {
+                        "label": "Q3014",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Mecklenburg-Western Pomerania": {
+                "label": "Q1196",
+                "subdivision": {
+                    "Ludwigslust-Parchim District": {
+                        "label": "Q2905",
+                        "subdivision": {}
+                    },
+                    "Mecklenburgische Seenplatte District": {
+                        "label": "Q2902",
+                        "subdivision": {}
+                    },
+                    "Nordwestmecklenburg District": {
+                        "label": "Q2876",
+                        "subdivision": {}
+                    },
+                    "Rostock": {
+                        "label": "Q2861",
+                        "subdivision": {}
+                    },
+                    "Rostock District": {
+                        "label": "Q2898",
+                        "subdivision": {}
+                    },
+                    "Schwerin": {
+                        "label": "Q1709",
+                        "subdivision": {}
+                    },
+                    "Vorpommern-Greifswald District": {
+                        "label": "Q2917",
+                        "subdivision": {}
+                    },
+                    "Vorpommern-R\u00fcgen District": {
+                        "label": "Q2909",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "North Rhine-Westphalia": {
+                "label": "Q1198",
+                "subdivision": {
+                    "Arnsberg Government Region": {
+                        "label": "Q7924",
+                        "subdivision": {}
+                    },
+                    "Cologne Government Region": {
+                        "label": "Q7927",
+                        "subdivision": {}
+                    },
+                    "Detmold Government Region": {
+                        "label": "Q7923",
+                        "subdivision": {}
+                    },
+                    "D\u00fcsseldorf Government Region": {
+                        "label": "Q7926",
+                        "subdivision": {}
+                    },
+                    "M\u00fcnster Government Region": {
+                        "label": "Q7920",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Rhineland-Palatinate": {
+                "label": "Q1200",
+                "subdivision": {
+                    "Ahrweiler": {
+                        "label": "Q8596",
+                        "subdivision": {}
+                    },
+                    "Altenkirchen district": {
+                        "label": "Q8608",
+                        "subdivision": {}
+                    },
+                    "Alzey-Worms": {
+                        "label": "Q8566",
+                        "subdivision": {}
+                    },
+                    "Bad D\u00fcrkheim": {
+                        "label": "Q8557",
+                        "subdivision": {}
+                    },
+                    "Bad Kreuznach": {
+                        "label": "Q8572",
+                        "subdivision": {}
+                    },
+                    "Bernkastel-Wittlich": {
+                        "label": "Q8585",
+                        "subdivision": {}
+                    },
+                    "Birkenfeld": {
+                        "label": "Q8575",
+                        "subdivision": {}
+                    },
+                    "Cochem-Zell": {
+                        "label": "Q8590",
+                        "subdivision": {}
+                    },
+                    "Donnersbergkreis": {
+                        "label": "Q8564",
+                        "subdivision": {}
+                    },
+                    "Eifelkreis Bitburg-Pr\u00fcm": {
+                        "label": "Q8580",
+                        "subdivision": {}
+                    },
+                    "Frankenthal (Pfalz)": {
+                        "label": "Q6905",
+                        "subdivision": {}
+                    },
+                    "Germersheim": {
+                        "label": "Q8543",
+                        "subdivision": {}
+                    },
+                    "Kaiserslautern": {
+                        "label": "Q3758",
+                        "subdivision": {}
+                    },
+                    "Koblenz": {
+                        "label": "Q3104",
+                        "subdivision": {}
+                    },
+                    "Kusel": {
+                        "label": "Q8562",
+                        "subdivision": {}
+                    },
+                    "Landau in der Pfalz": {
+                        "label": "Q7052",
+                        "subdivision": {}
+                    },
+                    "Landkreis Kaiserslautern": {
+                        "label": "Q8559",
+                        "subdivision": {}
+                    },
+                    "Ludwigshafen": {
+                        "label": "Q2910",
+                        "subdivision": {}
+                    },
+                    "Mainz": {
+                        "label": "Q1720",
+                        "subdivision": {}
+                    },
+                    "Mainz-Bingen": {
+                        "label": "Q8569",
+                        "subdivision": {}
+                    },
+                    "Mayen-Koblenz": {
+                        "label": "Q8593",
+                        "subdivision": {}
+                    },
+                    "Neustadt an der Weinstra\u00dfe": {
+                        "label": "Q4149",
+                        "subdivision": {}
+                    },
+                    "Neuwied": {
+                        "label": "Q8606",
+                        "subdivision": {}
+                    },
+                    "Pirmasens": {
+                        "label": "Q14849",
+                        "subdivision": {}
+                    },
+                    "Rhein-Hunsr\u00fcck-Kreis": {
+                        "label": "Q8574",
+                        "subdivision": {}
+                    },
+                    "Rhein-Lahn-Kreis": {
+                        "label": "Q8601",
+                        "subdivision": {}
+                    },
+                    "Rhein-Pfalz-Kreis": {
+                        "label": "Q8554",
+                        "subdivision": {}
+                    },
+                    "Speyer": {
+                        "label": "Q6829",
+                        "subdivision": {}
+                    },
+                    "S\u00fcdliche Weinstra\u00dfe": {
+                        "label": "Q8551",
+                        "subdivision": {}
+                    },
+                    "S\u00fcdwestpfalz": {
+                        "label": "Q8552",
+                        "subdivision": {}
+                    },
+                    "Trier": {
+                        "label": "Q3138",
+                        "subdivision": {}
+                    },
+                    "Trier-Saarburg": {
+                        "label": "Q8579",
+                        "subdivision": {}
+                    },
+                    "Vulkaneifel": {
+                        "label": "Q8583",
+                        "subdivision": {}
+                    },
+                    "Westerwaldkreis": {
+                        "label": "Q8602",
+                        "subdivision": {}
+                    },
+                    "Worms": {
+                        "label": "Q3852",
+                        "subdivision": {}
+                    },
+                    "Zweibr\u00fccken": {
+                        "label": "Q16017",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Saarland": {
+                "label": "Q1201",
+                "subdivision": {
+                    "Merzig-Wadern": {
+                        "label": "Q6802",
+                        "subdivision": {}
+                    },
+                    "Neunkirchen": {
+                        "label": "Q6799",
+                        "subdivision": {}
+                    },
+                    "Regionalverband Saarbr\u00fccken": {
+                        "label": "Q6805",
+                        "subdivision": {}
+                    },
+                    "Saarlouis": {
+                        "label": "Q6794",
+                        "subdivision": {}
+                    },
+                    "Saarpfalz-Kreis": {
+                        "label": "Q6793",
+                        "subdivision": {}
+                    },
+                    "St. Wendel": {
+                        "label": "Q6789",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Saxony": {
+                "label": "Q1202",
+                "subdivision": {
+                    "Bautzen District": {
+                        "label": "Q571947",
+                        "subdivision": {}
+                    },
+                    "Chemnitz": {
+                        "label": "Q2795",
+                        "subdivision": {}
+                    },
+                    "Dresden": {
+                        "label": "Q1731",
+                        "subdivision": {}
+                    },
+                    "Erzgebirgskreis": {
+                        "label": "Q6339",
+                        "subdivision": {}
+                    },
+                    "G\u00f6rlitz": {
+                        "label": "Q6317",
+                        "subdivision": {}
+                    },
+                    "Landkreis Leipzig": {
+                        "label": "Q6308",
+                        "subdivision": {}
+                    },
+                    "Leipzig": {
+                        "label": "Q2079",
+                        "subdivision": {}
+                    },
+                    "Meissen District": {
+                        "label": "Q6313",
+                        "subdivision": {}
+                    },
+                    "Mittelsachsen": {
+                        "label": "Q6328",
+                        "subdivision": {}
+                    },
+                    "Nordsachsen": {
+                        "label": "Q6301",
+                        "subdivision": {}
+                    },
+                    "S\u00e4chsische Schweiz-Osterzgebirge": {
+                        "label": "Q6323",
+                        "subdivision": {}
+                    },
+                    "Vogtlandkreis": {
+                        "label": "Q6337",
+                        "subdivision": {}
+                    },
+                    "Zwickau": {
+                        "label": "Q6330",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Saxony-Anhalt": {
+                "label": "Q1206",
+                "subdivision": {
+                    "Altmarkkreis Salzwedel": {
+                        "label": "Q6061",
+                        "subdivision": {}
+                    },
+                    "Anhalt-Bitterfeld": {
+                        "label": "Q6071",
+                        "subdivision": {}
+                    },
+                    "Burgenlandkreis": {
+                        "label": "Q6102",
+                        "subdivision": {}
+                    },
+                    "B\u00f6rde": {
+                        "label": "Q6064",
+                        "subdivision": {}
+                    },
+                    "Dessau-Ro\u00dflau": {
+                        "label": "Q3828",
+                        "subdivision": {}
+                    },
+                    "Halle (Saale)": {
+                        "label": "Q2814",
+                        "subdivision": {}
+                    },
+                    "Harz District": {
+                        "label": "Q6087",
+                        "subdivision": {}
+                    },
+                    "Jerichower Land": {
+                        "label": "Q6068",
+                        "subdivision": {}
+                    },
+                    "Magdeburg": {
+                        "label": "Q1733",
+                        "subdivision": {}
+                    },
+                    "Mansfeld-S\u00fcdharz": {
+                        "label": "Q6092",
+                        "subdivision": {}
+                    },
+                    "Saalekreis": {
+                        "label": "Q6098",
+                        "subdivision": {}
+                    },
+                    "Salzlandkreis": {
+                        "label": "Q6081",
+                        "subdivision": {}
+                    },
+                    "Stendal District": {
+                        "label": "Q6057",
+                        "subdivision": {}
+                    },
+                    "Wittenberg": {
+                        "label": "Q6075",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Schleswig-Holstein": {
+                "label": "Q1194",
+                "subdivision": {
+                    "Dithmarschen": {
+                        "label": "Q2947",
+                        "subdivision": {}
+                    },
+                    "Flensburg": {
+                        "label": "Q3798",
+                        "subdivision": {}
+                    },
+                    "Herzogtum Lauenburg": {
+                        "label": "Q3000",
+                        "subdivision": {}
+                    },
+                    "Kiel": {
+                        "label": "Q1707",
+                        "subdivision": {}
+                    },
+                    "L\u00fcbeck": {
+                        "label": "Q2843",
+                        "subdivision": {}
+                    },
+                    "Neum\u00fcnster": {
+                        "label": "Q3879",
+                        "subdivision": {}
+                    },
+                    "Nordfriesland district": {
+                        "label": "Q2937",
+                        "subdivision": {}
+                    },
+                    "Ostholstein": {
+                        "label": "Q2975",
+                        "subdivision": {}
+                    },
+                    "Pinneberg": {
+                        "label": "Q3006",
+                        "subdivision": {}
+                    },
+                    "Pl\u00f6n District": {
+                        "label": "Q2970",
+                        "subdivision": {}
+                    },
+                    "Rendsburg-Eckernf\u00f6rde": {
+                        "label": "Q2967",
+                        "subdivision": {}
+                    },
+                    "Schleswig-Flensburg": {
+                        "label": "Q2941",
+                        "subdivision": {}
+                    },
+                    "Segeberg": {
+                        "label": "Q2980",
+                        "subdivision": {}
+                    },
+                    "Steinburg": {
+                        "label": "Q3011",
+                        "subdivision": {}
+                    },
+                    "Stormarn": {
+                        "label": "Q3003",
+                        "subdivision": {}
+                    }
+                }
+            },
+            "Thuringia": {
+                "label": "Q1205",
+                "subdivision": {
+                    "Altenburger Land": {
+                        "label": "Q7888",
+                        "subdivision": {}
+                    },
+                    "Eichsfeld": {
+                        "label": "Q7861",
+                        "subdivision": {}
+                    },
+                    "Eisenach": {
+                        "label": "Q7070",
+                        "subdivision": {}
+                    },
+                    "Erfurt": {
+                        "label": "Q1729",
+                        "subdivision": {}
+                    },
+                    "Gera": {
+                        "label": "Q3750",
+                        "subdivision": {}
+                    },
+                    "Gotha": {
+                        "label": "Q7869",
+                        "subdivision": {}
+                    },
+                    "Greiz": {
+                        "label": "Q7887",
+                        "subdivision": {}
+                    },
+                    "Ilm-Kreis": {
+                        "label": "Q7878",
+                        "subdivision": {}
+                    },
+                    "Jena": {
+                        "label": "Q3150",
+                        "subdivision": {}
+                    },
+                    "Kyffh\u00e4userkreis": {
+                        "label": "Q7862",
+                        "subdivision": {}
+                    },
+                    "Landkreis Hildburghausen": {
+                        "label": "Q7872",
+                        "subdivision": {}
+                    },
+                    "Landkreis Saalfeld-Rudolstadt": {
+                        "label": "Q7882",
+                        "subdivision": {}
+                    },
+                    "Nordhausen": {
+                        "label": "Q7858",
+                        "subdivision": {}
+                    },
+                    "Saale-Holzland-Kreis": {
+                        "label": "Q7884",
+                        "subdivision": {}
+                    },
+                    "Saale-Orla-Kreis": {
+                        "label": "Q7883",
+                        "subdivision": {}
+                    },
+                    "Schmalkalden-Meiningen": {
+                        "label": "Q7871",
+                        "subdivision": {}
+                    },
+                    "Sonneberg": {
+                        "label": "Q7875",
+                        "subdivision": {}
+                    },
+                    "Suhl": {
+                        "label": "Q14891",
+                        "subdivision": {}
+                    },
+                    "S\u00f6mmerda": {
+                        "label": "Q7865",
+                        "subdivision": {}
+                    },
+                    "Unstrut-Hainich-Kreis": {
+                        "label": "Q7864",
+                        "subdivision": {}
+                    },
+                    "Wartburgkreis": {
+                        "label": "Q7866",
+                        "subdivision": {}
+                    },
+                    "Weimar": {
+                        "label": "Q3955",
+                        "subdivision": {}
+                    },
+                    "Weimarer Land": {
+                        "label": "Q7879",
+                        "subdivision": {}
+                    }
+                }
+            }
+        }
+    }
+}

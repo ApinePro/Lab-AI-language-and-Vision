@@ -1,0 +1,5121 @@
+{
+    "Q8167": [],
+    "Q8165": [],
+    "Q8172": [],
+    "Q8170": [],
+    "Q985": [],
+    "Q10559": [],
+    "Q10547": [],
+    "Q10551": [],
+    "Q10557": [],
+    "Q10562": [],
+    "Q10554": [],
+    "Q10555": [],
+    "Q980": [
+        [
+            "Q10559",
+            "Lower Bavaria",
+            "Q10562",
+            "Upper Bavaria"
+        ],
+        [
+            "Q10559",
+            "Lower Bavaria",
+            "Q10555",
+            "Upper Palatinate"
+        ],
+        [
+            "Q10547",
+            "Lower Franconia",
+            "Q10551",
+            "Middle Franconia"
+        ],
+        [
+            "Q10547",
+            "Lower Franconia",
+            "Q10554",
+            "Upper Franconia"
+        ],
+        [
+            "Q10551",
+            "Middle Franconia",
+            "Q10547",
+            "Lower Franconia"
+        ],
+        [
+            "Q10551",
+            "Middle Franconia",
+            "Q10557",
+            "Swabia"
+        ],
+        [
+            "Q10551",
+            "Middle Franconia",
+            "Q10562",
+            "Upper Bavaria"
+        ],
+        [
+            "Q10551",
+            "Middle Franconia",
+            "Q10554",
+            "Upper Franconia"
+        ],
+        [
+            "Q10551",
+            "Middle Franconia",
+            "Q10555",
+            "Upper Palatinate"
+        ],
+        [
+            "Q10557",
+            "Swabia",
+            "Q10551",
+            "Middle Franconia"
+        ],
+        [
+            "Q10557",
+            "Swabia",
+            "Q10562",
+            "Upper Bavaria"
+        ],
+        [
+            "Q10562",
+            "Upper Bavaria",
+            "Q10559",
+            "Lower Bavaria"
+        ],
+        [
+            "Q10562",
+            "Upper Bavaria",
+            "Q10551",
+            "Middle Franconia"
+        ],
+        [
+            "Q10562",
+            "Upper Bavaria",
+            "Q10557",
+            "Swabia"
+        ],
+        [
+            "Q10562",
+            "Upper Bavaria",
+            "Q10555",
+            "Upper Palatinate"
+        ],
+        [
+            "Q10554",
+            "Upper Franconia",
+            "Q10547",
+            "Lower Franconia"
+        ],
+        [
+            "Q10554",
+            "Upper Franconia",
+            "Q10551",
+            "Middle Franconia"
+        ],
+        [
+            "Q10554",
+            "Upper Franconia",
+            "Q10555",
+            "Upper Palatinate"
+        ],
+        [
+            "Q10555",
+            "Upper Palatinate",
+            "Q10559",
+            "Lower Bavaria"
+        ],
+        [
+            "Q10555",
+            "Upper Palatinate",
+            "Q10551",
+            "Middle Franconia"
+        ],
+        [
+            "Q10555",
+            "Upper Palatinate",
+            "Q10562",
+            "Upper Bavaria"
+        ],
+        [
+            "Q10555",
+            "Upper Palatinate",
+            "Q10554",
+            "Upper Franconia"
+        ]
+    ],
+    "Q158095": [],
+    "Q158893": [],
+    "Q329609": [],
+    "Q119284": [],
+    "Q163966": [],
+    "Q4071168": [],
+    "Q163012": [],
+    "Q158876": [],
+    "Q158083": [],
+    "Q158064": [],
+    "Q158106": [],
+    "Q158089": [],
+    "Q64": [
+        [
+            "Q158095",
+            "Charlottenburg-Wilmersdorf",
+            "Q163966",
+            "Berlin-Mitte"
+        ],
+        [
+            "Q158095",
+            "Charlottenburg-Wilmersdorf",
+            "Q158876",
+            "Reinickendorf"
+        ],
+        [
+            "Q158095",
+            "Charlottenburg-Wilmersdorf",
+            "Q158083",
+            "Spandau"
+        ],
+        [
+            "Q158095",
+            "Charlottenburg-Wilmersdorf",
+            "Q158064",
+            "Steglitz-Zehlendorf"
+        ],
+        [
+            "Q158095",
+            "Charlottenburg-Wilmersdorf",
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg"
+        ],
+        [
+            "Q158893",
+            "Friedrichshain-Kreuzberg",
+            "Q163966",
+            "Berlin-Mitte"
+        ],
+        [
+            "Q158893",
+            "Friedrichshain-Kreuzberg",
+            "Q329609",
+            "Lichtenberg"
+        ],
+        [
+            "Q158893",
+            "Friedrichshain-Kreuzberg",
+            "Q4071168",
+            "Neuk\u00f6lln"
+        ],
+        [
+            "Q158893",
+            "Friedrichshain-Kreuzberg",
+            "Q163012",
+            "Pankow"
+        ],
+        [
+            "Q158893",
+            "Friedrichshain-Kreuzberg",
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg"
+        ],
+        [
+            "Q158893",
+            "Friedrichshain-Kreuzberg",
+            "Q158089",
+            "Treptow-K\u00f6penick"
+        ],
+        [
+            "Q329609",
+            "Lichtenberg",
+            "Q158893",
+            "Friedrichshain-Kreuzberg"
+        ],
+        [
+            "Q329609",
+            "Lichtenberg",
+            "Q119284",
+            "Marzahn-Hellersdorf"
+        ],
+        [
+            "Q329609",
+            "Lichtenberg",
+            "Q163012",
+            "Pankow"
+        ],
+        [
+            "Q329609",
+            "Lichtenberg",
+            "Q158089",
+            "Treptow-K\u00f6penick"
+        ],
+        [
+            "Q119284",
+            "Marzahn-Hellersdorf",
+            "Q329609",
+            "Lichtenberg"
+        ],
+        [
+            "Q119284",
+            "Marzahn-Hellersdorf",
+            "Q158089",
+            "Treptow-K\u00f6penick"
+        ],
+        [
+            "Q163966",
+            "Mitte",
+            "Q158095",
+            "Charlottenburg-Wilmersdorf"
+        ],
+        [
+            "Q163966",
+            "Mitte",
+            "Q158893",
+            "Friedrichshain-Kreuzberg"
+        ],
+        [
+            "Q163966",
+            "Mitte",
+            "Q163012",
+            "Pankow"
+        ],
+        [
+            "Q163966",
+            "Mitte",
+            "Q158876",
+            "Reinickendorf"
+        ],
+        [
+            "Q163966",
+            "Mitte",
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg"
+        ],
+        [
+            "Q4071168",
+            "Neuk\u00f6lln",
+            "Q158893",
+            "Friedrichshain-Kreuzberg"
+        ],
+        [
+            "Q4071168",
+            "Neuk\u00f6lln",
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg"
+        ],
+        [
+            "Q4071168",
+            "Neuk\u00f6lln",
+            "Q158089",
+            "Treptow-K\u00f6penick"
+        ],
+        [
+            "Q163012",
+            "Pankow",
+            "Q163966",
+            "Berlin-Mitte"
+        ],
+        [
+            "Q163012",
+            "Pankow",
+            "Q158893",
+            "Friedrichshain-Kreuzberg"
+        ],
+        [
+            "Q163012",
+            "Pankow",
+            "Q329609",
+            "Lichtenberg"
+        ],
+        [
+            "Q163012",
+            "Pankow",
+            "Q158876",
+            "Reinickendorf"
+        ],
+        [
+            "Q158876",
+            "Reinickendorf",
+            "Q163966",
+            "Berlin-Mitte"
+        ],
+        [
+            "Q158876",
+            "Reinickendorf",
+            "Q158095",
+            "Charlottenburg-Wilmersdorf"
+        ],
+        [
+            "Q158876",
+            "Reinickendorf",
+            "Q163012",
+            "Pankow"
+        ],
+        [
+            "Q158876",
+            "Reinickendorf",
+            "Q158083",
+            "Spandau"
+        ],
+        [
+            "Q158083",
+            "Spandau",
+            "Q158095",
+            "Charlottenburg-Wilmersdorf"
+        ],
+        [
+            "Q158083",
+            "Spandau",
+            "Q158876",
+            "Reinickendorf"
+        ],
+        [
+            "Q158083",
+            "Spandau",
+            "Q158064",
+            "Steglitz-Zehlendorf"
+        ],
+        [
+            "Q158064",
+            "Steglitz-Zehlendorf",
+            "Q158095",
+            "Charlottenburg-Wilmersdorf"
+        ],
+        [
+            "Q158064",
+            "Steglitz-Zehlendorf",
+            "Q158083",
+            "Spandau"
+        ],
+        [
+            "Q158064",
+            "Steglitz-Zehlendorf",
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg"
+        ],
+        [
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg",
+            "Q163966",
+            "Berlin-Mitte"
+        ],
+        [
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg",
+            "Q158095",
+            "Charlottenburg-Wilmersdorf"
+        ],
+        [
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg",
+            "Q158893",
+            "Friedrichshain-Kreuzberg"
+        ],
+        [
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg",
+            "Q4071168",
+            "Neuk\u00f6lln"
+        ],
+        [
+            "Q158106",
+            "Tempelhof-Sch\u00f6neberg",
+            "Q158064",
+            "Steglitz-Zehlendorf"
+        ],
+        [
+            "Q158089",
+            "Treptow-K\u00f6penick",
+            "Q158893",
+            "Friedrichshain-Kreuzberg"
+        ],
+        [
+            "Q158089",
+            "Treptow-K\u00f6penick",
+            "Q329609",
+            "Lichtenberg"
+        ],
+        [
+            "Q158089",
+            "Treptow-K\u00f6penick",
+            "Q119284",
+            "Marzahn-Hellersdorf"
+        ],
+        [
+            "Q158089",
+            "Treptow-K\u00f6penick",
+            "Q4071168",
+            "Neuk\u00f6lln"
+        ]
+    ],
+    "Q6115": [],
+    "Q3931": [],
+    "Q3214": [],
+    "Q6173": [],
+    "Q6152": [],
+    "Q4024": [],
+    "Q6139": [],
+    "Q6181": [],
+    "Q6119": [],
+    "Q6156": [],
+    "Q6178": [],
+    "Q6125": [],
+    "Q1711": [],
+    "Q6142": [],
+    "Q6132": [],
+    "Q6165": [],
+    "Q6146": [],
+    "Q6109": [],
+    "Q1208": [
+        [
+            "Q6115",
+            "Barnim District",
+            "Q6181",
+            "M\u00e4rkisch-Oderland District"
+        ],
+        [
+            "Q6115",
+            "Barnim District",
+            "Q6119",
+            "Oberhavel District"
+        ],
+        [
+            "Q6115",
+            "Barnim District",
+            "Q6109",
+            "Uckermark District"
+        ],
+        [
+            "Q3931",
+            "Brandenburg an der Havel",
+            "Q6139",
+            "Havelland District"
+        ],
+        [
+            "Q3931",
+            "Brandenburg an der Havel",
+            "Q6142",
+            "Potsdam-Mittelmark District"
+        ],
+        [
+            "Q3214",
+            "Cottbus",
+            "Q6165",
+            "Spree-Nei\u00dfe District"
+        ],
+        [
+            "Q6173",
+            "Dahme-Spreewald District",
+            "Q6152",
+            "Elbe-Elster District"
+        ],
+        [
+            "Q6173",
+            "Dahme-Spreewald District",
+            "Q6156",
+            "Oberspreewald-Lausitz District"
+        ],
+        [
+            "Q6173",
+            "Dahme-Spreewald District",
+            "Q6178",
+            "Oder-Spree District"
+        ],
+        [
+            "Q6173",
+            "Dahme-Spreewald District",
+            "Q6165",
+            "Spree-Nei\u00dfe District"
+        ],
+        [
+            "Q6173",
+            "Dahme-Spreewald District",
+            "Q6146",
+            "Teltow-Fl\u00e4ming District"
+        ],
+        [
+            "Q6152",
+            "Elbe-Elster District",
+            "Q6173",
+            "Dahme-Spreewald District"
+        ],
+        [
+            "Q6152",
+            "Elbe-Elster District",
+            "Q6156",
+            "Oberspreewald-Lausitz District"
+        ],
+        [
+            "Q6152",
+            "Elbe-Elster District",
+            "Q6146",
+            "Teltow-Fl\u00e4ming District"
+        ],
+        [
+            "Q4024",
+            "Frankfurt (Oder)",
+            "Q6181",
+            "M\u00e4rkisch-Oderland District"
+        ],
+        [
+            "Q4024",
+            "Frankfurt (Oder)",
+            "Q6178",
+            "Oder-Spree District"
+        ],
+        [
+            "Q6139",
+            "Havelland District",
+            "Q3931",
+            "Brandenburg an der Havel"
+        ],
+        [
+            "Q6139",
+            "Havelland District",
+            "Q6119",
+            "Oberhavel District"
+        ],
+        [
+            "Q6139",
+            "Havelland District",
+            "Q6125",
+            "Ostprignitz-Ruppin District"
+        ],
+        [
+            "Q6139",
+            "Havelland District",
+            "Q1711",
+            "Potsdam"
+        ],
+        [
+            "Q6139",
+            "Havelland District",
+            "Q6142",
+            "Potsdam-Mittelmark District"
+        ],
+        [
+            "Q6181",
+            "M\u00e4rkisch-Oderland District",
+            "Q6115",
+            "Barnim District"
+        ],
+        [
+            "Q6181",
+            "M\u00e4rkisch-Oderland District",
+            "Q4024",
+            "Frankfurt (Oder)"
+        ],
+        [
+            "Q6181",
+            "M\u00e4rkisch-Oderland District",
+            "Q6178",
+            "Oder-Spree District"
+        ],
+        [
+            "Q6119",
+            "Oberhavel District",
+            "Q6115",
+            "Barnim District"
+        ],
+        [
+            "Q6119",
+            "Oberhavel District",
+            "Q6139",
+            "Havelland District"
+        ],
+        [
+            "Q6119",
+            "Oberhavel District",
+            "Q6125",
+            "Ostprignitz-Ruppin District"
+        ],
+        [
+            "Q6119",
+            "Oberhavel District",
+            "Q6109",
+            "Uckermark District"
+        ],
+        [
+            "Q6156",
+            "Oberspreewald-Lausitz District",
+            "Q6173",
+            "Dahme-Spreewald District"
+        ],
+        [
+            "Q6156",
+            "Oberspreewald-Lausitz District",
+            "Q6152",
+            "Elbe-Elster District"
+        ],
+        [
+            "Q6156",
+            "Oberspreewald-Lausitz District",
+            "Q6165",
+            "Spree-Nei\u00dfe District"
+        ],
+        [
+            "Q6178",
+            "Oder-Spree District",
+            "Q6173",
+            "Dahme-Spreewald District"
+        ],
+        [
+            "Q6178",
+            "Oder-Spree District",
+            "Q4024",
+            "Frankfurt (Oder)"
+        ],
+        [
+            "Q6178",
+            "Oder-Spree District",
+            "Q6181",
+            "M\u00e4rkisch-Oderland District"
+        ],
+        [
+            "Q6178",
+            "Oder-Spree District",
+            "Q6165",
+            "Spree-Nei\u00dfe District"
+        ],
+        [
+            "Q6125",
+            "Ostprignitz-Ruppin District",
+            "Q6139",
+            "Havelland District"
+        ],
+        [
+            "Q6125",
+            "Ostprignitz-Ruppin District",
+            "Q6119",
+            "Oberhavel District"
+        ],
+        [
+            "Q6125",
+            "Ostprignitz-Ruppin District",
+            "Q6132",
+            "Prignitz District"
+        ],
+        [
+            "Q1711",
+            "Potsdam",
+            "Q6139",
+            "Havelland District"
+        ],
+        [
+            "Q1711",
+            "Potsdam",
+            "Q6142",
+            "Potsdam-Mittelmark District"
+        ],
+        [
+            "Q6142",
+            "Potsdam-Mittelmark District",
+            "Q3931",
+            "Brandenburg an der Havel"
+        ],
+        [
+            "Q6142",
+            "Potsdam-Mittelmark District",
+            "Q6139",
+            "Havelland District"
+        ],
+        [
+            "Q6142",
+            "Potsdam-Mittelmark District",
+            "Q1711",
+            "Potsdam"
+        ],
+        [
+            "Q6142",
+            "Potsdam-Mittelmark District",
+            "Q6146",
+            "Teltow-Fl\u00e4ming District"
+        ],
+        [
+            "Q6132",
+            "Prignitz District",
+            "Q6125",
+            "Ostprignitz-Ruppin District"
+        ],
+        [
+            "Q6165",
+            "Spree-Nei\u00dfe District",
+            "Q3214",
+            "Cottbus"
+        ],
+        [
+            "Q6165",
+            "Spree-Nei\u00dfe District",
+            "Q6173",
+            "Dahme-Spreewald District"
+        ],
+        [
+            "Q6165",
+            "Spree-Nei\u00dfe District",
+            "Q6156",
+            "Oberspreewald-Lausitz District"
+        ],
+        [
+            "Q6165",
+            "Spree-Nei\u00dfe District",
+            "Q6178",
+            "Oder-Spree District"
+        ],
+        [
+            "Q6146",
+            "Teltow-Fl\u00e4ming District",
+            "Q6173",
+            "Dahme-Spreewald District"
+        ],
+        [
+            "Q6146",
+            "Teltow-Fl\u00e4ming District",
+            "Q6152",
+            "Elbe-Elster District"
+        ],
+        [
+            "Q6146",
+            "Teltow-Fl\u00e4ming District",
+            "Q6142",
+            "Potsdam-Mittelmark District"
+        ],
+        [
+            "Q6109",
+            "Uckermark District",
+            "Q6115",
+            "Barnim District"
+        ],
+        [
+            "Q6109",
+            "Uckermark District",
+            "Q6119",
+            "Oberhavel District"
+        ]
+    ],
+    "Q24879": [],
+    "Q2706": [],
+    "Q1209": [],
+    "Q1630": [],
+    "Q1637": [],
+    "Q1632": [],
+    "Q1626": [],
+    "Q1627": [],
+    "Q1635": [],
+    "Q1633": [],
+    "Q1055": [
+        [
+            "Q1630",
+            "Altona",
+            "Q1632",
+            "Eimsb\u00fcttel"
+        ],
+        [
+            "Q1630",
+            "Altona",
+            "Q1626",
+            "Hamburg-Mitte"
+        ],
+        [
+            "Q1637",
+            "Bergedorf",
+            "Q1626",
+            "Hamburg-Mitte"
+        ],
+        [
+            "Q1632",
+            "Eimsb\u00fcttel",
+            "Q1630",
+            "Altona"
+        ],
+        [
+            "Q1632",
+            "Eimsb\u00fcttel",
+            "Q1626",
+            "Hamburg-Mitte"
+        ],
+        [
+            "Q1632",
+            "Eimsb\u00fcttel",
+            "Q1627",
+            "Hamburg-Nord"
+        ],
+        [
+            "Q1626",
+            "Hamburg-Mitte",
+            "Q1630",
+            "Altona"
+        ],
+        [
+            "Q1626",
+            "Hamburg-Mitte",
+            "Q1637",
+            "Bergedorf"
+        ],
+        [
+            "Q1626",
+            "Hamburg-Mitte",
+            "Q1632",
+            "Eimsb\u00fcttel"
+        ],
+        [
+            "Q1626",
+            "Hamburg-Mitte",
+            "Q1627",
+            "Hamburg-Nord"
+        ],
+        [
+            "Q1626",
+            "Hamburg-Mitte",
+            "Q1635",
+            "Harburg"
+        ],
+        [
+            "Q1626",
+            "Hamburg-Mitte",
+            "Q1633",
+            "Wandsbek"
+        ],
+        [
+            "Q1627",
+            "Hamburg-Nord",
+            "Q1632",
+            "Eimsb\u00fcttel"
+        ],
+        [
+            "Q1627",
+            "Hamburg-Nord",
+            "Q1626",
+            "Hamburg-Mitte"
+        ],
+        [
+            "Q1627",
+            "Hamburg-Nord",
+            "Q1633",
+            "Wandsbek"
+        ],
+        [
+            "Q1635",
+            "Harburg",
+            "Q1626",
+            "Hamburg-Mitte"
+        ],
+        [
+            "Q1633",
+            "Wandsbek",
+            "Q1626",
+            "Hamburg-Mitte"
+        ],
+        [
+            "Q1633",
+            "Wandsbek",
+            "Q1627",
+            "Hamburg-Nord"
+        ]
+    ],
+    "Q7932": [],
+    "Q7931": [],
+    "Q7928": [],
+    "Q1199": [
+        [
+            "Q7928",
+            "Kassel Government Region",
+            "Q7932",
+            "Darmstadt Government Region"
+        ]
+    ],
+    "Q5947": [],
+    "Q5929": [],
+    "Q2773": [],
+    "Q5919": [],
+    "Q5945": [],
+    "Q5939": [],
+    "Q5897": [],
+    "Q3907": [],
+    "Q5956": [],
+    "Q4174": [],
+    "Q5936": [],
+    "Q5932": [],
+    "Q6053": [],
+    "Q6040": [],
+    "Q6022": [],
+    "Q5970": [],
+    "Q5963": [],
+    "Q5907": [],
+    "Q5922": [],
+    "Q6047": [],
+    "Q5978": [],
+    "Q5973": [],
+    "Q5958": [],
+    "Q5934": [],
+    "Q5913": [],
+    "Q5910": [],
+    "Q6018": [],
+    "Q5952": [],
+    "Q5940": [],
+    "Q5926": [],
+    "Q6045": [],
+    "Q5923": [],
+    "Q3200": [],
+    "Q5966": [],
+    "Q5906": [],
+    "Q5915": [],
+    "Q5941": [],
+    "Q5927": [],
+    "Q5948": [],
+    "Q3857": [],
+    "Q5931": [],
+    "Q6041": [],
+    "Q3014": [],
+    "Q1197": [
+        [
+            "Q5947",
+            "Ammerland",
+            "Q5945",
+            "Cloppenburg"
+        ],
+        [
+            "Q5947",
+            "Ammerland",
+            "Q5932",
+            "Friesland"
+        ],
+        [
+            "Q5947",
+            "Ammerland",
+            "Q5934",
+            "Leer"
+        ],
+        [
+            "Q5947",
+            "Ammerland",
+            "Q5952",
+            "Oldenburg"
+        ],
+        [
+            "Q5947",
+            "Ammerland",
+            "Q5948",
+            "Wesermarsch"
+        ],
+        [
+            "Q5929",
+            "Aurich",
+            "Q4174",
+            "Emden"
+        ],
+        [
+            "Q5929",
+            "Aurich",
+            "Q5934",
+            "Leer"
+        ],
+        [
+            "Q5929",
+            "Aurich",
+            "Q5931",
+            "Wittmund"
+        ],
+        [
+            "Q2773",
+            "Brunswick",
+            "Q6053",
+            "Gifhorn"
+        ],
+        [
+            "Q2773",
+            "Brunswick",
+            "Q6047",
+            "Helmstedt district"
+        ],
+        [
+            "Q2773",
+            "Brunswick",
+            "Q6045",
+            "Peine"
+        ],
+        [
+            "Q2773",
+            "Brunswick",
+            "Q3200",
+            "Salzgitter"
+        ],
+        [
+            "Q2773",
+            "Brunswick",
+            "Q6041",
+            "Wolfenb\u00fcttel"
+        ],
+        [
+            "Q5919",
+            "Celle (district)",
+            "Q6053",
+            "Gifhorn"
+        ],
+        [
+            "Q5919",
+            "Celle (district)",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q5919",
+            "Celle (district)",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5919",
+            "Celle (district)",
+            "Q5915",
+            "Uelzen District"
+        ],
+        [
+            "Q5945",
+            "Cloppenburg",
+            "Q5947",
+            "Ammerland"
+        ],
+        [
+            "Q5945",
+            "Cloppenburg",
+            "Q5936",
+            "Emsland"
+        ],
+        [
+            "Q5945",
+            "Cloppenburg",
+            "Q5934",
+            "Leer"
+        ],
+        [
+            "Q5945",
+            "Cloppenburg",
+            "Q5952",
+            "Oldenburg"
+        ],
+        [
+            "Q5945",
+            "Cloppenburg",
+            "Q5940",
+            "Osnabr\u00fcck"
+        ],
+        [
+            "Q5945",
+            "Cloppenburg",
+            "Q5941",
+            "Vechta"
+        ],
+        [
+            "Q5939",
+            "County of Bentheim",
+            "Q5936",
+            "Emsland"
+        ],
+        [
+            "Q5897",
+            "Cuxhaven",
+            "Q5926",
+            "Osterholz"
+        ],
+        [
+            "Q5897",
+            "Cuxhaven",
+            "Q5923",
+            "Rotenburg (W\u00fcmme)"
+        ],
+        [
+            "Q5897",
+            "Cuxhaven",
+            "Q5906",
+            "Stade"
+        ],
+        [
+            "Q5897",
+            "Cuxhaven",
+            "Q5948",
+            "Wesermarsch"
+        ],
+        [
+            "Q3907",
+            "Delmenhorst",
+            "Q5956",
+            "Diepholz"
+        ],
+        [
+            "Q3907",
+            "Delmenhorst",
+            "Q5952",
+            "Oldenburg"
+        ],
+        [
+            "Q3907",
+            "Delmenhorst",
+            "Q5948",
+            "Wesermarsch"
+        ],
+        [
+            "Q5956",
+            "Diepholz",
+            "Q3907",
+            "Delmenhorst"
+        ],
+        [
+            "Q5956",
+            "Diepholz",
+            "Q5958",
+            "Landkreis Nienburg/Weser"
+        ],
+        [
+            "Q5956",
+            "Diepholz",
+            "Q5952",
+            "Oldenburg"
+        ],
+        [
+            "Q5956",
+            "Diepholz",
+            "Q5940",
+            "Osnabr\u00fcck"
+        ],
+        [
+            "Q5956",
+            "Diepholz",
+            "Q5941",
+            "Vechta"
+        ],
+        [
+            "Q5956",
+            "Diepholz",
+            "Q5927",
+            "Verden"
+        ],
+        [
+            "Q4174",
+            "Emden",
+            "Q5929",
+            "Aurich"
+        ],
+        [
+            "Q4174",
+            "Emden",
+            "Q5934",
+            "Leer"
+        ],
+        [
+            "Q5936",
+            "Emsland",
+            "Q5945",
+            "Cloppenburg"
+        ],
+        [
+            "Q5936",
+            "Emsland",
+            "Q5939",
+            "County of Bentheim"
+        ],
+        [
+            "Q5936",
+            "Emsland",
+            "Q5934",
+            "Leer"
+        ],
+        [
+            "Q5936",
+            "Emsland",
+            "Q5940",
+            "Osnabr\u00fcck"
+        ],
+        [
+            "Q5932",
+            "Friesland",
+            "Q5947",
+            "Ammerland"
+        ],
+        [
+            "Q5932",
+            "Friesland",
+            "Q5934",
+            "Leer"
+        ],
+        [
+            "Q5932",
+            "Friesland",
+            "Q5948",
+            "Wesermarsch"
+        ],
+        [
+            "Q5932",
+            "Friesland",
+            "Q3857",
+            "Wilhelmshaven"
+        ],
+        [
+            "Q5932",
+            "Friesland",
+            "Q5931",
+            "Wittmund"
+        ],
+        [
+            "Q6053",
+            "Gifhorn",
+            "Q2773",
+            "Brunswick"
+        ],
+        [
+            "Q6053",
+            "Gifhorn",
+            "Q5919",
+            "Celle"
+        ],
+        [
+            "Q6053",
+            "Gifhorn",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q6053",
+            "Gifhorn",
+            "Q6047",
+            "Helmstedt district"
+        ],
+        [
+            "Q6053",
+            "Gifhorn",
+            "Q6045",
+            "Peine"
+        ],
+        [
+            "Q6053",
+            "Gifhorn",
+            "Q5915",
+            "Uelzen District"
+        ],
+        [
+            "Q6053",
+            "Gifhorn",
+            "Q3014",
+            "Wolfsburg"
+        ],
+        [
+            "Q6040",
+            "Goslar",
+            "Q6022",
+            "G\u00f6ttingen district"
+        ],
+        [
+            "Q6040",
+            "Goslar",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q6040",
+            "Goslar",
+            "Q6018",
+            "Northeim"
+        ],
+        [
+            "Q6040",
+            "Goslar",
+            "Q3200",
+            "Salzgitter"
+        ],
+        [
+            "Q6040",
+            "Goslar",
+            "Q6041",
+            "Wolfenb\u00fcttel"
+        ],
+        [
+            "Q6022",
+            "G\u00f6ttingen district",
+            "Q6040",
+            "Goslar"
+        ],
+        [
+            "Q6022",
+            "G\u00f6ttingen district",
+            "Q6018",
+            "Northeim"
+        ],
+        [
+            "Q5970",
+            "Hamelin-Pyrmont",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q5970",
+            "Hamelin-Pyrmont",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q5970",
+            "Hamelin-Pyrmont",
+            "Q5973",
+            "Holzminden"
+        ],
+        [
+            "Q5970",
+            "Hamelin-Pyrmont",
+            "Q5966",
+            "Schaumburg"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q5919",
+            "Celle"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q6053",
+            "Gifhorn"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q5970",
+            "Hamelin-Pyrmont"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q5958",
+            "Landkreis Nienburg/Weser"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q6045",
+            "Peine"
+        ],
+        [
+            "Q5963",
+            "Hanover region",
+            "Q5966",
+            "Schaumburg"
+        ],
+        [
+            "Q5907",
+            "Harburg",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5907",
+            "Harburg",
+            "Q5910",
+            "L\u00fcneburg"
+        ],
+        [
+            "Q5907",
+            "Harburg",
+            "Q5923",
+            "Rotenburg (W\u00fcmme)"
+        ],
+        [
+            "Q5907",
+            "Harburg",
+            "Q5906",
+            "Stade"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5919",
+            "Celle"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5907",
+            "Harburg"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5958",
+            "Landkreis Nienburg/Weser"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5910",
+            "L\u00fcneburg"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5923",
+            "Rotenburg (W\u00fcmme)"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5915",
+            "Uelzen District"
+        ],
+        [
+            "Q5922",
+            "Heidekreis",
+            "Q5927",
+            "Verden"
+        ],
+        [
+            "Q6047",
+            "Helmstedt district",
+            "Q2773",
+            "Brunswick"
+        ],
+        [
+            "Q6047",
+            "Helmstedt district",
+            "Q6053",
+            "Gifhorn"
+        ],
+        [
+            "Q6047",
+            "Helmstedt district",
+            "Q6041",
+            "Wolfenb\u00fcttel"
+        ],
+        [
+            "Q6047",
+            "Helmstedt district",
+            "Q3014",
+            "Wolfsburg"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q6040",
+            "Goslar"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q5970",
+            "Hamelin-Pyrmont"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q5973",
+            "Holzminden"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q6018",
+            "Northeim"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q6045",
+            "Peine"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q3200",
+            "Salzgitter"
+        ],
+        [
+            "Q5978",
+            "Hildesheim",
+            "Q6041",
+            "Wolfenb\u00fcttel"
+        ],
+        [
+            "Q5973",
+            "Holzminden",
+            "Q5970",
+            "Hamelin-Pyrmont"
+        ],
+        [
+            "Q5973",
+            "Holzminden",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q5973",
+            "Holzminden",
+            "Q6018",
+            "Northeim"
+        ],
+        [
+            "Q5958",
+            "Landkreis Nienburg/Weser",
+            "Q5956",
+            "Diepholz"
+        ],
+        [
+            "Q5958",
+            "Landkreis Nienburg/Weser",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q5958",
+            "Landkreis Nienburg/Weser",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5958",
+            "Landkreis Nienburg/Weser",
+            "Q5966",
+            "Schaumburg"
+        ],
+        [
+            "Q5958",
+            "Landkreis Nienburg/Weser",
+            "Q5927",
+            "Verden"
+        ],
+        [
+            "Q5934",
+            "Leer",
+            "Q5947",
+            "Ammerland"
+        ],
+        [
+            "Q5934",
+            "Leer",
+            "Q5929",
+            "Aurich"
+        ],
+        [
+            "Q5934",
+            "Leer",
+            "Q5945",
+            "Cloppenburg"
+        ],
+        [
+            "Q5934",
+            "Leer",
+            "Q4174",
+            "Emden"
+        ],
+        [
+            "Q5934",
+            "Leer",
+            "Q5936",
+            "Emsland"
+        ],
+        [
+            "Q5934",
+            "Leer",
+            "Q5932",
+            "Friesland"
+        ],
+        [
+            "Q5934",
+            "Leer",
+            "Q5931",
+            "Wittmund"
+        ],
+        [
+            "Q5913",
+            "L\u00fcchow-Dannenberg District",
+            "Q5910",
+            "L\u00fcneburg"
+        ],
+        [
+            "Q5913",
+            "L\u00fcchow-Dannenberg District",
+            "Q5915",
+            "Uelzen District"
+        ],
+        [
+            "Q5910",
+            "L\u00fcneburg",
+            "Q5907",
+            "Harburg"
+        ],
+        [
+            "Q5910",
+            "L\u00fcneburg",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5910",
+            "L\u00fcneburg",
+            "Q5913",
+            "L\u00fcchow-Dannenberg District"
+        ],
+        [
+            "Q5910",
+            "L\u00fcneburg",
+            "Q5915",
+            "Uelzen District"
+        ],
+        [
+            "Q6018",
+            "Northeim",
+            "Q6040",
+            "Goslar"
+        ],
+        [
+            "Q6018",
+            "Northeim",
+            "Q6022",
+            "G\u00f6ttingen district"
+        ],
+        [
+            "Q6018",
+            "Northeim",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q6018",
+            "Northeim",
+            "Q5973",
+            "Holzminden"
+        ],
+        [
+            "Q5952",
+            "Oldenburg",
+            "Q5947",
+            "Ammerland"
+        ],
+        [
+            "Q5952",
+            "Oldenburg",
+            "Q5945",
+            "Cloppenburg"
+        ],
+        [
+            "Q5952",
+            "Oldenburg",
+            "Q3907",
+            "Delmenhorst"
+        ],
+        [
+            "Q5952",
+            "Oldenburg",
+            "Q5956",
+            "Diepholz"
+        ],
+        [
+            "Q5952",
+            "Oldenburg",
+            "Q5941",
+            "Vechta"
+        ],
+        [
+            "Q5952",
+            "Oldenburg",
+            "Q5948",
+            "Wesermarsch"
+        ],
+        [
+            "Q5940",
+            "Osnabr\u00fcck",
+            "Q5945",
+            "Cloppenburg"
+        ],
+        [
+            "Q5940",
+            "Osnabr\u00fcck",
+            "Q5956",
+            "Diepholz"
+        ],
+        [
+            "Q5940",
+            "Osnabr\u00fcck",
+            "Q5936",
+            "Emsland"
+        ],
+        [
+            "Q5940",
+            "Osnabr\u00fcck",
+            "Q5941",
+            "Vechta"
+        ],
+        [
+            "Q5926",
+            "Osterholz",
+            "Q5897",
+            "Cuxhaven"
+        ],
+        [
+            "Q5926",
+            "Osterholz",
+            "Q5923",
+            "Rotenburg (W\u00fcmme)"
+        ],
+        [
+            "Q5926",
+            "Osterholz",
+            "Q5927",
+            "Verden"
+        ],
+        [
+            "Q5926",
+            "Osterholz",
+            "Q5948",
+            "Wesermarsch"
+        ],
+        [
+            "Q6045",
+            "Peine",
+            "Q2773",
+            "Brunswick"
+        ],
+        [
+            "Q6045",
+            "Peine",
+            "Q6053",
+            "Gifhorn"
+        ],
+        [
+            "Q6045",
+            "Peine",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q6045",
+            "Peine",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q6045",
+            "Peine",
+            "Q3200",
+            "Salzgitter"
+        ],
+        [
+            "Q5923",
+            "Rotenburg (W\u00fcmme)",
+            "Q5897",
+            "Cuxhaven"
+        ],
+        [
+            "Q5923",
+            "Rotenburg (W\u00fcmme)",
+            "Q5907",
+            "Harburg"
+        ],
+        [
+            "Q5923",
+            "Rotenburg (W\u00fcmme)",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5923",
+            "Rotenburg (W\u00fcmme)",
+            "Q5926",
+            "Osterholz"
+        ],
+        [
+            "Q5923",
+            "Rotenburg (W\u00fcmme)",
+            "Q5906",
+            "Stade"
+        ],
+        [
+            "Q5923",
+            "Rotenburg (W\u00fcmme)",
+            "Q5927",
+            "Verden"
+        ],
+        [
+            "Q3200",
+            "Salzgitter",
+            "Q2773",
+            "Brunswick"
+        ],
+        [
+            "Q3200",
+            "Salzgitter",
+            "Q6040",
+            "Goslar"
+        ],
+        [
+            "Q3200",
+            "Salzgitter",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q3200",
+            "Salzgitter",
+            "Q6045",
+            "Peine"
+        ],
+        [
+            "Q3200",
+            "Salzgitter",
+            "Q6041",
+            "Wolfenb\u00fcttel"
+        ],
+        [
+            "Q5966",
+            "Schaumburg",
+            "Q5970",
+            "Hamelin-Pyrmont"
+        ],
+        [
+            "Q5966",
+            "Schaumburg",
+            "Q5963",
+            "Hanover region"
+        ],
+        [
+            "Q5966",
+            "Schaumburg",
+            "Q5958",
+            "Landkreis Nienburg/Weser"
+        ],
+        [
+            "Q5906",
+            "Stade",
+            "Q5897",
+            "Cuxhaven"
+        ],
+        [
+            "Q5906",
+            "Stade",
+            "Q5907",
+            "Harburg"
+        ],
+        [
+            "Q5906",
+            "Stade",
+            "Q5923",
+            "Rotenburg (W\u00fcmme)"
+        ],
+        [
+            "Q5915",
+            "Uelzen District",
+            "Q5919",
+            "Celle"
+        ],
+        [
+            "Q5915",
+            "Uelzen District",
+            "Q6053",
+            "Gifhorn"
+        ],
+        [
+            "Q5915",
+            "Uelzen District",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5915",
+            "Uelzen District",
+            "Q5913",
+            "L\u00fcchow-Dannenberg District"
+        ],
+        [
+            "Q5915",
+            "Uelzen District",
+            "Q5910",
+            "L\u00fcneburg"
+        ],
+        [
+            "Q5941",
+            "Vechta",
+            "Q5945",
+            "Cloppenburg"
+        ],
+        [
+            "Q5941",
+            "Vechta",
+            "Q5956",
+            "Diepholz"
+        ],
+        [
+            "Q5941",
+            "Vechta",
+            "Q5952",
+            "Oldenburg"
+        ],
+        [
+            "Q5941",
+            "Vechta",
+            "Q5940",
+            "Osnabr\u00fcck"
+        ],
+        [
+            "Q5927",
+            "Verden",
+            "Q5956",
+            "Diepholz"
+        ],
+        [
+            "Q5927",
+            "Verden",
+            "Q5922",
+            "Heidekreis"
+        ],
+        [
+            "Q5927",
+            "Verden",
+            "Q5958",
+            "Landkreis Nienburg/Weser"
+        ],
+        [
+            "Q5927",
+            "Verden",
+            "Q5926",
+            "Osterholz"
+        ],
+        [
+            "Q5927",
+            "Verden",
+            "Q5923",
+            "Rotenburg (W\u00fcmme)"
+        ],
+        [
+            "Q5948",
+            "Wesermarsch",
+            "Q5947",
+            "Ammerland"
+        ],
+        [
+            "Q5948",
+            "Wesermarsch",
+            "Q5897",
+            "Cuxhaven"
+        ],
+        [
+            "Q5948",
+            "Wesermarsch",
+            "Q3907",
+            "Delmenhorst"
+        ],
+        [
+            "Q5948",
+            "Wesermarsch",
+            "Q5932",
+            "Friesland"
+        ],
+        [
+            "Q5948",
+            "Wesermarsch",
+            "Q5952",
+            "Oldenburg"
+        ],
+        [
+            "Q5948",
+            "Wesermarsch",
+            "Q5926",
+            "Osterholz"
+        ],
+        [
+            "Q3857",
+            "Wilhelmshaven",
+            "Q5932",
+            "Friesland"
+        ],
+        [
+            "Q5931",
+            "Wittmund",
+            "Q5929",
+            "Aurich"
+        ],
+        [
+            "Q5931",
+            "Wittmund",
+            "Q5932",
+            "Friesland"
+        ],
+        [
+            "Q5931",
+            "Wittmund",
+            "Q5934",
+            "Leer"
+        ],
+        [
+            "Q6041",
+            "Wolfenb\u00fcttel",
+            "Q2773",
+            "Brunswick"
+        ],
+        [
+            "Q6041",
+            "Wolfenb\u00fcttel",
+            "Q6040",
+            "Goslar"
+        ],
+        [
+            "Q6041",
+            "Wolfenb\u00fcttel",
+            "Q6047",
+            "Helmstedt district"
+        ],
+        [
+            "Q6041",
+            "Wolfenb\u00fcttel",
+            "Q5978",
+            "Hildesheim"
+        ],
+        [
+            "Q6041",
+            "Wolfenb\u00fcttel",
+            "Q3200",
+            "Salzgitter"
+        ],
+        [
+            "Q3014",
+            "Wolfsburg",
+            "Q6053",
+            "Gifhorn"
+        ],
+        [
+            "Q3014",
+            "Wolfsburg",
+            "Q6047",
+            "Helmstedt district"
+        ]
+    ],
+    "Q2905": [],
+    "Q2902": [],
+    "Q2876": [],
+    "Q2861": [],
+    "Q2898": [],
+    "Q1709": [],
+    "Q2917": [],
+    "Q2909": [],
+    "Q1196": [
+        [
+            "Q2905",
+            "Ludwigslust-Parchim District",
+            "Q2902",
+            "Mecklenburgische Seenplatte District"
+        ],
+        [
+            "Q2905",
+            "Ludwigslust-Parchim District",
+            "Q2876",
+            "Nordwestmecklenburg District"
+        ],
+        [
+            "Q2905",
+            "Ludwigslust-Parchim District",
+            "Q2898",
+            "Rostock District"
+        ],
+        [
+            "Q2905",
+            "Ludwigslust-Parchim District",
+            "Q1709",
+            "Schwerin"
+        ],
+        [
+            "Q2902",
+            "Mecklenburgische Seenplatte District",
+            "Q2905",
+            "Ludwigslust-Parchim District"
+        ],
+        [
+            "Q2902",
+            "Mecklenburgische Seenplatte District",
+            "Q2898",
+            "Rostock District"
+        ],
+        [
+            "Q2902",
+            "Mecklenburgische Seenplatte District",
+            "Q2917",
+            "Vorpommern-Greifswald District"
+        ],
+        [
+            "Q2902",
+            "Mecklenburgische Seenplatte District",
+            "Q2909",
+            "Vorpommern-R\u00fcgen District"
+        ],
+        [
+            "Q2876",
+            "Nordwestmecklenburg District",
+            "Q2905",
+            "Ludwigslust-Parchim District"
+        ],
+        [
+            "Q2876",
+            "Nordwestmecklenburg District",
+            "Q2898",
+            "Rostock District"
+        ],
+        [
+            "Q2876",
+            "Nordwestmecklenburg District",
+            "Q1709",
+            "Schwerin"
+        ],
+        [
+            "Q2861",
+            "Rostock",
+            "Q2898",
+            "Rostock District"
+        ],
+        [
+            "Q2898",
+            "Rostock District",
+            "Q2905",
+            "Ludwigslust-Parchim District"
+        ],
+        [
+            "Q2898",
+            "Rostock District",
+            "Q2902",
+            "Mecklenburgische Seenplatte District"
+        ],
+        [
+            "Q2898",
+            "Rostock District",
+            "Q2876",
+            "Nordwestmecklenburg District"
+        ],
+        [
+            "Q2898",
+            "Rostock District",
+            "Q2861",
+            "Rostock"
+        ],
+        [
+            "Q2898",
+            "Rostock District",
+            "Q2909",
+            "Vorpommern-R\u00fcgen District"
+        ],
+        [
+            "Q1709",
+            "Schwerin",
+            "Q2905",
+            "Ludwigslust-Parchim District"
+        ],
+        [
+            "Q1709",
+            "Schwerin",
+            "Q2876",
+            "Nordwestmecklenburg District"
+        ],
+        [
+            "Q2917",
+            "Vorpommern-Greifswald District",
+            "Q2902",
+            "Mecklenburgische Seenplatte District"
+        ],
+        [
+            "Q2917",
+            "Vorpommern-Greifswald District",
+            "Q2909",
+            "Vorpommern-R\u00fcgen District"
+        ],
+        [
+            "Q2909",
+            "Vorpommern-R\u00fcgen District",
+            "Q2902",
+            "Mecklenburgische Seenplatte District"
+        ],
+        [
+            "Q2909",
+            "Vorpommern-R\u00fcgen District",
+            "Q2898",
+            "Rostock District"
+        ],
+        [
+            "Q2909",
+            "Vorpommern-R\u00fcgen District",
+            "Q2917",
+            "Vorpommern-Greifswald District"
+        ]
+    ],
+    "Q7924": [],
+    "Q7927": [],
+    "Q7923": [],
+    "Q7926": [],
+    "Q7920": [],
+    "Q1198": [],
+    "Q8596": [],
+    "Q8608": [],
+    "Q8566": [],
+    "Q8557": [],
+    "Q8572": [],
+    "Q8585": [],
+    "Q8575": [],
+    "Q8590": [],
+    "Q8564": [],
+    "Q8580": [],
+    "Q6905": [],
+    "Q8543": [],
+    "Q3758": [],
+    "Q3104": [],
+    "Q8562": [],
+    "Q7052": [],
+    "Q8559": [],
+    "Q2910": [],
+    "Q1720": [],
+    "Q8569": [],
+    "Q8593": [],
+    "Q4149": [],
+    "Q8606": [],
+    "Q14849": [],
+    "Q8574": [],
+    "Q8601": [],
+    "Q8554": [],
+    "Q6829": [],
+    "Q8551": [],
+    "Q8552": [],
+    "Q3138": [],
+    "Q8579": [],
+    "Q8583": [],
+    "Q8602": [],
+    "Q3852": [],
+    "Q16017": [],
+    "Q1200": [
+        [
+            "Q8596",
+            "Ahrweiler",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q8596",
+            "Ahrweiler",
+            "Q8606",
+            "Neuwied"
+        ],
+        [
+            "Q8596",
+            "Ahrweiler",
+            "Q8583",
+            "Vulkaneifel"
+        ],
+        [
+            "Q8608",
+            "Altenkirchen district",
+            "Q8606",
+            "Neuwied"
+        ],
+        [
+            "Q8608",
+            "Altenkirchen district",
+            "Q8602",
+            "Westerwaldkreis"
+        ],
+        [
+            "Q8566",
+            "Alzey-Worms",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q8566",
+            "Alzey-Worms",
+            "Q8572",
+            "Bad Kreuznach"
+        ],
+        [
+            "Q8566",
+            "Alzey-Worms",
+            "Q8564",
+            "Donnersbergkreis"
+        ],
+        [
+            "Q8566",
+            "Alzey-Worms",
+            "Q8569",
+            "Mainz-Bingen"
+        ],
+        [
+            "Q8566",
+            "Alzey-Worms",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q8566",
+            "Alzey-Worms"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q8564",
+            "Donnersbergkreis"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q3758",
+            "Kaiserslautern"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q7052",
+            "Landau in der Pfalz"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q8559",
+            "Landkreis Kaiserslautern"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q4149",
+            "Neustadt an der Weinstra\u00dfe"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q8552",
+            "S\u00fcdwestpfalz"
+        ],
+        [
+            "Q8557",
+            "Bad D\u00fcrkheim",
+            "Q3852",
+            "Worms"
+        ],
+        [
+            "Q8572",
+            "Bad Kreuznach",
+            "Q8566",
+            "Alzey-Worms"
+        ],
+        [
+            "Q8572",
+            "Bad Kreuznach",
+            "Q8575",
+            "Birkenfeld"
+        ],
+        [
+            "Q8572",
+            "Bad Kreuznach",
+            "Q8564",
+            "Donnersbergkreis"
+        ],
+        [
+            "Q8572",
+            "Bad Kreuznach",
+            "Q8562",
+            "Kusel"
+        ],
+        [
+            "Q8572",
+            "Bad Kreuznach",
+            "Q8569",
+            "Mainz-Bingen"
+        ],
+        [
+            "Q8572",
+            "Bad Kreuznach",
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis"
+        ],
+        [
+            "Q8585",
+            "Bernkastel-Wittlich",
+            "Q8575",
+            "Birkenfeld"
+        ],
+        [
+            "Q8585",
+            "Bernkastel-Wittlich",
+            "Q8590",
+            "Cochem-Zell"
+        ],
+        [
+            "Q8585",
+            "Bernkastel-Wittlich",
+            "Q8580",
+            "Eifelkreis Bitburg-Pr\u00fcm"
+        ],
+        [
+            "Q8585",
+            "Bernkastel-Wittlich",
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis"
+        ],
+        [
+            "Q8585",
+            "Bernkastel-Wittlich",
+            "Q8579",
+            "Trier-Saarburg"
+        ],
+        [
+            "Q8585",
+            "Bernkastel-Wittlich",
+            "Q8583",
+            "Vulkaneifel"
+        ],
+        [
+            "Q8575",
+            "Birkenfeld",
+            "Q8572",
+            "Bad Kreuznach"
+        ],
+        [
+            "Q8575",
+            "Birkenfeld",
+            "Q8585",
+            "Bernkastel-Wittlich"
+        ],
+        [
+            "Q8575",
+            "Birkenfeld",
+            "Q8562",
+            "Kusel"
+        ],
+        [
+            "Q8575",
+            "Birkenfeld",
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis"
+        ],
+        [
+            "Q8575",
+            "Birkenfeld",
+            "Q8579",
+            "Trier-Saarburg"
+        ],
+        [
+            "Q8590",
+            "Cochem-Zell",
+            "Q8585",
+            "Bernkastel-Wittlich"
+        ],
+        [
+            "Q8590",
+            "Cochem-Zell",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q8590",
+            "Cochem-Zell",
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis"
+        ],
+        [
+            "Q8590",
+            "Cochem-Zell",
+            "Q8583",
+            "Vulkaneifel"
+        ],
+        [
+            "Q8564",
+            "Donnersbergkreis",
+            "Q8566",
+            "Alzey-Worms"
+        ],
+        [
+            "Q8564",
+            "Donnersbergkreis",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q8564",
+            "Donnersbergkreis",
+            "Q8572",
+            "Bad Kreuznach"
+        ],
+        [
+            "Q8564",
+            "Donnersbergkreis",
+            "Q8562",
+            "Kusel"
+        ],
+        [
+            "Q8564",
+            "Donnersbergkreis",
+            "Q8559",
+            "Landkreis Kaiserslautern"
+        ],
+        [
+            "Q8580",
+            "Eifelkreis Bitburg-Pr\u00fcm",
+            "Q8585",
+            "Bernkastel-Wittlich"
+        ],
+        [
+            "Q8580",
+            "Eifelkreis Bitburg-Pr\u00fcm",
+            "Q8579",
+            "Trier-Saarburg"
+        ],
+        [
+            "Q8580",
+            "Eifelkreis Bitburg-Pr\u00fcm",
+            "Q8583",
+            "Vulkaneifel"
+        ],
+        [
+            "Q6905",
+            "Frankenthal (Pfalz)",
+            "Q2910",
+            "Ludwigshafen"
+        ],
+        [
+            "Q6905",
+            "Frankenthal (Pfalz)",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q8543",
+            "Germersheim",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q8543",
+            "Germersheim",
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe"
+        ],
+        [
+            "Q3758",
+            "Kaiserslautern",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q3758",
+            "Kaiserslautern",
+            "Q8559",
+            "Landkreis Kaiserslautern"
+        ],
+        [
+            "Q3104",
+            "Koblenz",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q3104",
+            "Koblenz",
+            "Q8601",
+            "Rhein-Lahn-Kreis"
+        ],
+        [
+            "Q3104",
+            "Koblenz",
+            "Q8602",
+            "Westerwaldkreis"
+        ],
+        [
+            "Q8562",
+            "Kusel",
+            "Q8572",
+            "Bad Kreuznach"
+        ],
+        [
+            "Q8562",
+            "Kusel",
+            "Q8575",
+            "Birkenfeld"
+        ],
+        [
+            "Q8562",
+            "Kusel",
+            "Q8564",
+            "Donnersbergkreis"
+        ],
+        [
+            "Q8562",
+            "Kusel",
+            "Q8559",
+            "Landkreis Kaiserslautern"
+        ],
+        [
+            "Q7052",
+            "Landau in der Pfalz",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q7052",
+            "Landau in der Pfalz",
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe"
+        ],
+        [
+            "Q7052",
+            "Landau in der Pfalz",
+            "Q8552",
+            "S\u00fcdwestpfalz"
+        ],
+        [
+            "Q8559",
+            "Landkreis Kaiserslautern",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q8559",
+            "Landkreis Kaiserslautern",
+            "Q8564",
+            "Donnersbergkreis"
+        ],
+        [
+            "Q8559",
+            "Landkreis Kaiserslautern",
+            "Q3758",
+            "Kaiserslautern"
+        ],
+        [
+            "Q8559",
+            "Landkreis Kaiserslautern",
+            "Q8562",
+            "Kusel"
+        ],
+        [
+            "Q8559",
+            "Landkreis Kaiserslautern",
+            "Q8552",
+            "S\u00fcdwestpfalz"
+        ],
+        [
+            "Q2910",
+            "Ludwigshafen",
+            "Q6905",
+            "Frankenthal (Pfalz)"
+        ],
+        [
+            "Q2910",
+            "Ludwigshafen",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q1720",
+            "Mainz",
+            "Q8569",
+            "Mainz-Bingen"
+        ],
+        [
+            "Q8569",
+            "Mainz-Bingen",
+            "Q8566",
+            "Alzey-Worms"
+        ],
+        [
+            "Q8569",
+            "Mainz-Bingen",
+            "Q8572",
+            "Bad Kreuznach"
+        ],
+        [
+            "Q8569",
+            "Mainz-Bingen",
+            "Q1720",
+            "Mainz"
+        ],
+        [
+            "Q8569",
+            "Mainz-Bingen",
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis"
+        ],
+        [
+            "Q8569",
+            "Mainz-Bingen",
+            "Q8601",
+            "Rhein-Lahn-Kreis"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q8596",
+            "Ahrweiler"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q8590",
+            "Cochem-Zell"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q3104",
+            "Koblenz"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q8606",
+            "Neuwied"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q8601",
+            "Rhein-Lahn-Kreis"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q8583",
+            "Vulkaneifel"
+        ],
+        [
+            "Q8593",
+            "Mayen-Koblenz",
+            "Q8602",
+            "Westerwaldkreis"
+        ],
+        [
+            "Q4149",
+            "Neustadt an der Weinstra\u00dfe",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q4149",
+            "Neustadt an der Weinstra\u00dfe",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q4149",
+            "Neustadt an der Weinstra\u00dfe",
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe"
+        ],
+        [
+            "Q8606",
+            "Neuwied",
+            "Q8596",
+            "Ahrweiler"
+        ],
+        [
+            "Q8606",
+            "Neuwied",
+            "Q8608",
+            "Altenkirchen district"
+        ],
+        [
+            "Q8606",
+            "Neuwied",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q8606",
+            "Neuwied",
+            "Q8602",
+            "Westerwaldkreis"
+        ],
+        [
+            "Q14849",
+            "Pirmasens",
+            "Q8552",
+            "S\u00fcdwestpfalz"
+        ],
+        [
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis",
+            "Q8572",
+            "Bad Kreuznach"
+        ],
+        [
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis",
+            "Q8585",
+            "Bernkastel-Wittlich"
+        ],
+        [
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis",
+            "Q8575",
+            "Birkenfeld"
+        ],
+        [
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis",
+            "Q8590",
+            "Cochem-Zell"
+        ],
+        [
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis",
+            "Q8569",
+            "Mainz-Bingen"
+        ],
+        [
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis",
+            "Q8601",
+            "Rhein-Lahn-Kreis"
+        ],
+        [
+            "Q8601",
+            "Rhein-Lahn-Kreis",
+            "Q3104",
+            "Koblenz"
+        ],
+        [
+            "Q8601",
+            "Rhein-Lahn-Kreis",
+            "Q8569",
+            "Mainz-Bingen"
+        ],
+        [
+            "Q8601",
+            "Rhein-Lahn-Kreis",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q8601",
+            "Rhein-Lahn-Kreis",
+            "Q8574",
+            "Rhein-Hunsr\u00fcck-Kreis"
+        ],
+        [
+            "Q8601",
+            "Rhein-Lahn-Kreis",
+            "Q8602",
+            "Westerwaldkreis"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q6905",
+            "Frankenthal (Pfalz)"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q8543",
+            "Germersheim"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q2910",
+            "Ludwigshafen"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q4149",
+            "Neustadt an der Weinstra\u00dfe"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q6829",
+            "Speyer"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe"
+        ],
+        [
+            "Q8554",
+            "Rhein-Pfalz-Kreis",
+            "Q3852",
+            "Worms"
+        ],
+        [
+            "Q6829",
+            "Speyer",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe",
+            "Q8543",
+            "Germersheim"
+        ],
+        [
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe",
+            "Q7052",
+            "Landau in der Pfalz"
+        ],
+        [
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe",
+            "Q4149",
+            "Neustadt an der Weinstra\u00dfe"
+        ],
+        [
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe",
+            "Q8552",
+            "S\u00fcdwestpfalz"
+        ],
+        [
+            "Q8552",
+            "S\u00fcdwestpfalz",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q8552",
+            "S\u00fcdwestpfalz",
+            "Q7052",
+            "Landau in der Pfalz"
+        ],
+        [
+            "Q8552",
+            "S\u00fcdwestpfalz",
+            "Q8559",
+            "Landkreis Kaiserslautern"
+        ],
+        [
+            "Q8552",
+            "S\u00fcdwestpfalz",
+            "Q14849",
+            "Pirmasens"
+        ],
+        [
+            "Q8552",
+            "S\u00fcdwestpfalz",
+            "Q8551",
+            "S\u00fcdliche Weinstra\u00dfe"
+        ],
+        [
+            "Q8552",
+            "S\u00fcdwestpfalz",
+            "Q16017",
+            "Zweibr\u00fccken"
+        ],
+        [
+            "Q3138",
+            "Trier",
+            "Q8579",
+            "Trier-Saarburg"
+        ],
+        [
+            "Q8579",
+            "Trier-Saarburg",
+            "Q8585",
+            "Bernkastel-Wittlich"
+        ],
+        [
+            "Q8579",
+            "Trier-Saarburg",
+            "Q8575",
+            "Birkenfeld"
+        ],
+        [
+            "Q8579",
+            "Trier-Saarburg",
+            "Q8580",
+            "Eifelkreis Bitburg-Pr\u00fcm"
+        ],
+        [
+            "Q8579",
+            "Trier-Saarburg",
+            "Q3138",
+            "Trier"
+        ],
+        [
+            "Q8583",
+            "Vulkaneifel",
+            "Q8596",
+            "Ahrweiler"
+        ],
+        [
+            "Q8583",
+            "Vulkaneifel",
+            "Q8585",
+            "Bernkastel-Wittlich"
+        ],
+        [
+            "Q8583",
+            "Vulkaneifel",
+            "Q8590",
+            "Cochem-Zell"
+        ],
+        [
+            "Q8583",
+            "Vulkaneifel",
+            "Q8580",
+            "Eifelkreis Bitburg-Pr\u00fcm"
+        ],
+        [
+            "Q8583",
+            "Vulkaneifel",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q8602",
+            "Westerwaldkreis",
+            "Q8608",
+            "Altenkirchen district"
+        ],
+        [
+            "Q8602",
+            "Westerwaldkreis",
+            "Q3104",
+            "Koblenz"
+        ],
+        [
+            "Q8602",
+            "Westerwaldkreis",
+            "Q8593",
+            "Mayen-Koblenz"
+        ],
+        [
+            "Q8602",
+            "Westerwaldkreis",
+            "Q8606",
+            "Neuwied"
+        ],
+        [
+            "Q8602",
+            "Westerwaldkreis",
+            "Q8601",
+            "Rhein-Lahn-Kreis"
+        ],
+        [
+            "Q3852",
+            "Worms",
+            "Q8566",
+            "Alzey-Worms"
+        ],
+        [
+            "Q3852",
+            "Worms",
+            "Q8557",
+            "Bad D\u00fcrkheim"
+        ],
+        [
+            "Q3852",
+            "Worms",
+            "Q8554",
+            "Rhein-Pfalz-Kreis"
+        ],
+        [
+            "Q16017",
+            "Zweibr\u00fccken",
+            "Q8552",
+            "S\u00fcdwestpfalz"
+        ]
+    ],
+    "Q6802": [],
+    "Q6799": [],
+    "Q6805": [],
+    "Q6794": [],
+    "Q6793": [],
+    "Q6789": [],
+    "Q1201": [
+        [
+            "Q6802",
+            "Merzig-Wadern",
+            "Q6794",
+            "Saarlouis"
+        ],
+        [
+            "Q6802",
+            "Merzig-Wadern",
+            "Q6789",
+            "St. Wendel"
+        ],
+        [
+            "Q6799",
+            "Neunkirchen",
+            "Q6805",
+            "Regionalverband Saarbr\u00fccken"
+        ],
+        [
+            "Q6799",
+            "Neunkirchen",
+            "Q6794",
+            "Saarlouis"
+        ],
+        [
+            "Q6799",
+            "Neunkirchen",
+            "Q6793",
+            "Saarpfalz-Kreis"
+        ],
+        [
+            "Q6799",
+            "Neunkirchen",
+            "Q6789",
+            "St. Wendel"
+        ],
+        [
+            "Q6805",
+            "Regionalverband Saarbr\u00fccken",
+            "Q6799",
+            "Neunkirchen"
+        ],
+        [
+            "Q6805",
+            "Regionalverband Saarbr\u00fccken",
+            "Q6794",
+            "Saarlouis"
+        ],
+        [
+            "Q6805",
+            "Regionalverband Saarbr\u00fccken",
+            "Q6793",
+            "Saarpfalz-Kreis"
+        ],
+        [
+            "Q6794",
+            "Saarlouis",
+            "Q6802",
+            "Merzig-Wadern"
+        ],
+        [
+            "Q6794",
+            "Saarlouis",
+            "Q6799",
+            "Neunkirchen"
+        ],
+        [
+            "Q6794",
+            "Saarlouis",
+            "Q6805",
+            "Regionalverband Saarbr\u00fccken"
+        ],
+        [
+            "Q6794",
+            "Saarlouis",
+            "Q6789",
+            "St. Wendel"
+        ],
+        [
+            "Q6793",
+            "Saarpfalz-Kreis",
+            "Q6799",
+            "Neunkirchen"
+        ],
+        [
+            "Q6793",
+            "Saarpfalz-Kreis",
+            "Q6805",
+            "Regionalverband Saarbr\u00fccken"
+        ],
+        [
+            "Q6789",
+            "St. Wendel",
+            "Q6802",
+            "Merzig-Wadern"
+        ],
+        [
+            "Q6789",
+            "St. Wendel",
+            "Q6799",
+            "Neunkirchen"
+        ],
+        [
+            "Q6789",
+            "St. Wendel",
+            "Q6794",
+            "Saarlouis"
+        ]
+    ],
+    "Q571947": [],
+    "Q2795": [],
+    "Q1731": [],
+    "Q6339": [],
+    "Q6317": [],
+    "Q6308": [],
+    "Q2079": [],
+    "Q6313": [],
+    "Q6328": [],
+    "Q6301": [],
+    "Q6323": [],
+    "Q6337": [],
+    "Q6330": [],
+    "Q1202": [
+        [
+            "Q571947",
+            "Bautzen District",
+            "Q1731",
+            "Dresden"
+        ],
+        [
+            "Q571947",
+            "Bautzen District",
+            "Q6317",
+            "G\u00f6rlitz"
+        ],
+        [
+            "Q571947",
+            "Bautzen District",
+            "Q6313",
+            "Meissen District"
+        ],
+        [
+            "Q571947",
+            "Bautzen District",
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge"
+        ],
+        [
+            "Q2795",
+            "Chemnitz",
+            "Q6339",
+            "Erzgebirgskreis"
+        ],
+        [
+            "Q2795",
+            "Chemnitz",
+            "Q6328",
+            "Mittelsachsen"
+        ],
+        [
+            "Q2795",
+            "Chemnitz",
+            "Q6330",
+            "Zwickau"
+        ],
+        [
+            "Q1731",
+            "Dresden",
+            "Q571947",
+            "Bautzen District"
+        ],
+        [
+            "Q1731",
+            "Dresden",
+            "Q6313",
+            "Meissen District"
+        ],
+        [
+            "Q1731",
+            "Dresden",
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge"
+        ],
+        [
+            "Q6339",
+            "Erzgebirgskreis",
+            "Q2795",
+            "Chemnitz"
+        ],
+        [
+            "Q6339",
+            "Erzgebirgskreis",
+            "Q6328",
+            "Mittelsachsen"
+        ],
+        [
+            "Q6339",
+            "Erzgebirgskreis",
+            "Q6337",
+            "Vogtlandkreis"
+        ],
+        [
+            "Q6339",
+            "Erzgebirgskreis",
+            "Q6330",
+            "Zwickau"
+        ],
+        [
+            "Q6317",
+            "G\u00f6rlitz",
+            "Q571947",
+            "Bautzen District"
+        ],
+        [
+            "Q6308",
+            "Landkreis Leipzig",
+            "Q2079",
+            "Leipzig"
+        ],
+        [
+            "Q6308",
+            "Landkreis Leipzig",
+            "Q6328",
+            "Mittelsachsen"
+        ],
+        [
+            "Q6308",
+            "Landkreis Leipzig",
+            "Q6301",
+            "Nordsachsen"
+        ],
+        [
+            "Q2079",
+            "Leipzig",
+            "Q6308",
+            "Landkreis Leipzig"
+        ],
+        [
+            "Q2079",
+            "Leipzig",
+            "Q6301",
+            "Nordsachsen"
+        ],
+        [
+            "Q6313",
+            "Meissen District",
+            "Q571947",
+            "Bautzen District"
+        ],
+        [
+            "Q6313",
+            "Meissen District",
+            "Q1731",
+            "Dresden"
+        ],
+        [
+            "Q6313",
+            "Meissen District",
+            "Q6328",
+            "Mittelsachsen"
+        ],
+        [
+            "Q6313",
+            "Meissen District",
+            "Q6301",
+            "Nordsachsen"
+        ],
+        [
+            "Q6313",
+            "Meissen District",
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge"
+        ],
+        [
+            "Q6328",
+            "Mittelsachsen",
+            "Q2795",
+            "Chemnitz"
+        ],
+        [
+            "Q6328",
+            "Mittelsachsen",
+            "Q6339",
+            "Erzgebirgskreis"
+        ],
+        [
+            "Q6328",
+            "Mittelsachsen",
+            "Q6308",
+            "Landkreis Leipzig"
+        ],
+        [
+            "Q6328",
+            "Mittelsachsen",
+            "Q6313",
+            "Meissen District"
+        ],
+        [
+            "Q6328",
+            "Mittelsachsen",
+            "Q6301",
+            "Nordsachsen"
+        ],
+        [
+            "Q6328",
+            "Mittelsachsen",
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge"
+        ],
+        [
+            "Q6328",
+            "Mittelsachsen",
+            "Q6330",
+            "Zwickau"
+        ],
+        [
+            "Q6301",
+            "Nordsachsen",
+            "Q6308",
+            "Landkreis Leipzig"
+        ],
+        [
+            "Q6301",
+            "Nordsachsen",
+            "Q2079",
+            "Leipzig"
+        ],
+        [
+            "Q6301",
+            "Nordsachsen",
+            "Q6313",
+            "Meissen District"
+        ],
+        [
+            "Q6301",
+            "Nordsachsen",
+            "Q6328",
+            "Mittelsachsen"
+        ],
+        [
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge",
+            "Q571947",
+            "Bautzen District"
+        ],
+        [
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge",
+            "Q1731",
+            "Dresden"
+        ],
+        [
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge",
+            "Q6313",
+            "Meissen District"
+        ],
+        [
+            "Q6323",
+            "S\u00e4chsische Schweiz-Osterzgebirge",
+            "Q6328",
+            "Mittelsachsen"
+        ],
+        [
+            "Q6337",
+            "Vogtlandkreis",
+            "Q6339",
+            "Erzgebirgskreis"
+        ],
+        [
+            "Q6337",
+            "Vogtlandkreis",
+            "Q6330",
+            "Zwickau"
+        ],
+        [
+            "Q6330",
+            "Zwickau",
+            "Q2795",
+            "Chemnitz"
+        ],
+        [
+            "Q6330",
+            "Zwickau",
+            "Q6339",
+            "Erzgebirgskreis"
+        ],
+        [
+            "Q6330",
+            "Zwickau",
+            "Q6328",
+            "Mittelsachsen"
+        ],
+        [
+            "Q6330",
+            "Zwickau",
+            "Q6337",
+            "Vogtlandkreis"
+        ]
+    ],
+    "Q6061": [],
+    "Q6071": [],
+    "Q6102": [],
+    "Q6064": [],
+    "Q3828": [],
+    "Q2814": [],
+    "Q6087": [],
+    "Q6068": [],
+    "Q1733": [],
+    "Q6092": [],
+    "Q6098": [],
+    "Q6081": [],
+    "Q6057": [],
+    "Q6075": [],
+    "Q1206": [
+        [
+            "Q6061",
+            "Altmarkkreis Salzwedel",
+            "Q6064",
+            "B\u00f6rde"
+        ],
+        [
+            "Q6061",
+            "Altmarkkreis Salzwedel",
+            "Q6057",
+            "Stendal District"
+        ],
+        [
+            "Q6071",
+            "Anhalt-Bitterfeld",
+            "Q3828",
+            "Dessau-Ro\u00dflau"
+        ],
+        [
+            "Q6071",
+            "Anhalt-Bitterfeld",
+            "Q6068",
+            "Jerichower Land"
+        ],
+        [
+            "Q6071",
+            "Anhalt-Bitterfeld",
+            "Q6098",
+            "Saalekreis"
+        ],
+        [
+            "Q6071",
+            "Anhalt-Bitterfeld",
+            "Q6081",
+            "Salzlandkreis"
+        ],
+        [
+            "Q6071",
+            "Anhalt-Bitterfeld",
+            "Q6075",
+            "Wittenberg"
+        ],
+        [
+            "Q6102",
+            "Burgenlandkreis",
+            "Q6098",
+            "Saalekreis"
+        ],
+        [
+            "Q6064",
+            "B\u00f6rde",
+            "Q6061",
+            "Altmarkkreis Salzwedel"
+        ],
+        [
+            "Q6064",
+            "B\u00f6rde",
+            "Q6087",
+            "Harz District"
+        ],
+        [
+            "Q6064",
+            "B\u00f6rde",
+            "Q6068",
+            "Jerichower Land"
+        ],
+        [
+            "Q6064",
+            "B\u00f6rde",
+            "Q1733",
+            "Magdeburg"
+        ],
+        [
+            "Q6064",
+            "B\u00f6rde",
+            "Q6081",
+            "Salzlandkreis"
+        ],
+        [
+            "Q6064",
+            "B\u00f6rde",
+            "Q6057",
+            "Stendal District"
+        ],
+        [
+            "Q3828",
+            "Dessau-Ro\u00dflau",
+            "Q6071",
+            "Anhalt-Bitterfeld"
+        ],
+        [
+            "Q3828",
+            "Dessau-Ro\u00dflau",
+            "Q6075",
+            "Wittenberg"
+        ],
+        [
+            "Q2814",
+            "Halle (Saale)",
+            "Q6098",
+            "Saalekreis"
+        ],
+        [
+            "Q6087",
+            "Harz District",
+            "Q6064",
+            "B\u00f6rde"
+        ],
+        [
+            "Q6087",
+            "Harz District",
+            "Q6092",
+            "Mansfeld-S\u00fcdharz"
+        ],
+        [
+            "Q6087",
+            "Harz District",
+            "Q6081",
+            "Salzlandkreis"
+        ],
+        [
+            "Q6068",
+            "Jerichower Land",
+            "Q6071",
+            "Anhalt-Bitterfeld"
+        ],
+        [
+            "Q6068",
+            "Jerichower Land",
+            "Q6064",
+            "B\u00f6rde"
+        ],
+        [
+            "Q6068",
+            "Jerichower Land",
+            "Q1733",
+            "Magdeburg"
+        ],
+        [
+            "Q6068",
+            "Jerichower Land",
+            "Q6081",
+            "Salzlandkreis"
+        ],
+        [
+            "Q6068",
+            "Jerichower Land",
+            "Q6057",
+            "Stendal District"
+        ],
+        [
+            "Q1733",
+            "Magdeburg",
+            "Q6064",
+            "B\u00f6rde"
+        ],
+        [
+            "Q1733",
+            "Magdeburg",
+            "Q6068",
+            "Jerichower Land"
+        ],
+        [
+            "Q1733",
+            "Magdeburg",
+            "Q6081",
+            "Salzlandkreis"
+        ],
+        [
+            "Q6092",
+            "Mansfeld-S\u00fcdharz",
+            "Q6087",
+            "Harz District"
+        ],
+        [
+            "Q6092",
+            "Mansfeld-S\u00fcdharz",
+            "Q6098",
+            "Saalekreis"
+        ],
+        [
+            "Q6092",
+            "Mansfeld-S\u00fcdharz",
+            "Q6081",
+            "Salzlandkreis"
+        ],
+        [
+            "Q6098",
+            "Saalekreis",
+            "Q6071",
+            "Anhalt-Bitterfeld"
+        ],
+        [
+            "Q6098",
+            "Saalekreis",
+            "Q6102",
+            "Burgenlandkreis"
+        ],
+        [
+            "Q6098",
+            "Saalekreis",
+            "Q2814",
+            "Halle (Saale)"
+        ],
+        [
+            "Q6098",
+            "Saalekreis",
+            "Q6092",
+            "Mansfeld-S\u00fcdharz"
+        ],
+        [
+            "Q6098",
+            "Saalekreis",
+            "Q6081",
+            "Salzlandkreis"
+        ],
+        [
+            "Q6081",
+            "Salzlandkreis",
+            "Q6071",
+            "Anhalt-Bitterfeld"
+        ],
+        [
+            "Q6081",
+            "Salzlandkreis",
+            "Q6064",
+            "B\u00f6rde"
+        ],
+        [
+            "Q6081",
+            "Salzlandkreis",
+            "Q6087",
+            "Harz District"
+        ],
+        [
+            "Q6081",
+            "Salzlandkreis",
+            "Q6068",
+            "Jerichower Land"
+        ],
+        [
+            "Q6081",
+            "Salzlandkreis",
+            "Q1733",
+            "Magdeburg"
+        ],
+        [
+            "Q6081",
+            "Salzlandkreis",
+            "Q6092",
+            "Mansfeld-S\u00fcdharz"
+        ],
+        [
+            "Q6081",
+            "Salzlandkreis",
+            "Q6098",
+            "Saalekreis"
+        ],
+        [
+            "Q6057",
+            "Stendal District",
+            "Q6061",
+            "Altmarkkreis Salzwedel"
+        ],
+        [
+            "Q6057",
+            "Stendal District",
+            "Q6064",
+            "B\u00f6rde"
+        ],
+        [
+            "Q6057",
+            "Stendal District",
+            "Q6068",
+            "Jerichower Land"
+        ],
+        [
+            "Q6075",
+            "Wittenberg",
+            "Q6071",
+            "Anhalt-Bitterfeld"
+        ],
+        [
+            "Q6075",
+            "Wittenberg",
+            "Q3828",
+            "Dessau-Ro\u00dflau"
+        ]
+    ],
+    "Q2947": [],
+    "Q3798": [],
+    "Q3000": [],
+    "Q1707": [],
+    "Q2843": [],
+    "Q3879": [],
+    "Q2937": [],
+    "Q2975": [],
+    "Q3006": [],
+    "Q2970": [],
+    "Q2967": [],
+    "Q2941": [],
+    "Q2980": [],
+    "Q3011": [],
+    "Q3003": [],
+    "Q1194": [
+        [
+            "Q2947",
+            "Dithmarschen",
+            "Q2937",
+            "Nordfriesland district"
+        ],
+        [
+            "Q2947",
+            "Dithmarschen",
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        [
+            "Q2947",
+            "Dithmarschen",
+            "Q2941",
+            "Schleswig-Flensburg"
+        ],
+        [
+            "Q2947",
+            "Dithmarschen",
+            "Q3011",
+            "Steinburg"
+        ],
+        [
+            "Q3798",
+            "Flensburg",
+            "Q2941",
+            "Schleswig-Flensburg"
+        ],
+        [
+            "Q3000",
+            "Herzogtum Lauenburg",
+            "Q2843",
+            "L\u00fcbeck"
+        ],
+        [
+            "Q3000",
+            "Herzogtum Lauenburg",
+            "Q3003",
+            "Stormarn"
+        ],
+        [
+            "Q1707",
+            "Kiel",
+            "Q2970",
+            "Pl\u00f6n District"
+        ],
+        [
+            "Q1707",
+            "Kiel",
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        [
+            "Q2843",
+            "L\u00fcbeck",
+            "Q3000",
+            "Herzogtum Lauenburg"
+        ],
+        [
+            "Q2843",
+            "L\u00fcbeck",
+            "Q2975",
+            "Ostholstein"
+        ],
+        [
+            "Q2843",
+            "L\u00fcbeck",
+            "Q3003",
+            "Stormarn"
+        ],
+        [
+            "Q3879",
+            "Neum\u00fcnster",
+            "Q2970",
+            "Pl\u00f6n District"
+        ],
+        [
+            "Q3879",
+            "Neum\u00fcnster",
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        [
+            "Q3879",
+            "Neum\u00fcnster",
+            "Q2980",
+            "Segeberg"
+        ],
+        [
+            "Q2937",
+            "Nordfriesland district",
+            "Q2947",
+            "Dithmarschen"
+        ],
+        [
+            "Q2937",
+            "Nordfriesland district",
+            "Q2941",
+            "Schleswig-Flensburg"
+        ],
+        [
+            "Q2975",
+            "Ostholstein",
+            "Q2843",
+            "L\u00fcbeck"
+        ],
+        [
+            "Q2975",
+            "Ostholstein",
+            "Q2970",
+            "Pl\u00f6n District"
+        ],
+        [
+            "Q2975",
+            "Ostholstein",
+            "Q2980",
+            "Segeberg"
+        ],
+        [
+            "Q2975",
+            "Ostholstein",
+            "Q3003",
+            "Stormarn"
+        ],
+        [
+            "Q3006",
+            "Pinneberg",
+            "Q2980",
+            "Segeberg"
+        ],
+        [
+            "Q3006",
+            "Pinneberg",
+            "Q3011",
+            "Steinburg"
+        ],
+        [
+            "Q2970",
+            "Pl\u00f6n District",
+            "Q1707",
+            "Kiel"
+        ],
+        [
+            "Q2970",
+            "Pl\u00f6n District",
+            "Q3879",
+            "Neum\u00fcnster"
+        ],
+        [
+            "Q2970",
+            "Pl\u00f6n District",
+            "Q2975",
+            "Ostholstein"
+        ],
+        [
+            "Q2970",
+            "Pl\u00f6n District",
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        [
+            "Q2970",
+            "Pl\u00f6n District",
+            "Q2980",
+            "Segeberg"
+        ],
+        [
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde",
+            "Q2947",
+            "Dithmarschen"
+        ],
+        [
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde",
+            "Q1707",
+            "Kiel"
+        ],
+        [
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde",
+            "Q3879",
+            "Neum\u00fcnster"
+        ],
+        [
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde",
+            "Q2970",
+            "Pl\u00f6n District"
+        ],
+        [
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde",
+            "Q2941",
+            "Schleswig-Flensburg"
+        ],
+        [
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde",
+            "Q2980",
+            "Segeberg"
+        ],
+        [
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde",
+            "Q3011",
+            "Steinburg"
+        ],
+        [
+            "Q2941",
+            "Schleswig-Flensburg",
+            "Q2947",
+            "Dithmarschen"
+        ],
+        [
+            "Q2941",
+            "Schleswig-Flensburg",
+            "Q3798",
+            "Flensburg"
+        ],
+        [
+            "Q2941",
+            "Schleswig-Flensburg",
+            "Q2937",
+            "Nordfriesland district"
+        ],
+        [
+            "Q2941",
+            "Schleswig-Flensburg",
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        [
+            "Q2980",
+            "Segeberg",
+            "Q3879",
+            "Neum\u00fcnster"
+        ],
+        [
+            "Q2980",
+            "Segeberg",
+            "Q2975",
+            "Ostholstein"
+        ],
+        [
+            "Q2980",
+            "Segeberg",
+            "Q3006",
+            "Pinneberg"
+        ],
+        [
+            "Q2980",
+            "Segeberg",
+            "Q2970",
+            "Pl\u00f6n District"
+        ],
+        [
+            "Q2980",
+            "Segeberg",
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        [
+            "Q2980",
+            "Segeberg",
+            "Q3011",
+            "Steinburg"
+        ],
+        [
+            "Q2980",
+            "Segeberg",
+            "Q3003",
+            "Stormarn"
+        ],
+        [
+            "Q3011",
+            "Steinburg",
+            "Q2947",
+            "Dithmarschen"
+        ],
+        [
+            "Q3011",
+            "Steinburg",
+            "Q3006",
+            "Pinneberg"
+        ],
+        [
+            "Q3011",
+            "Steinburg",
+            "Q2967",
+            "Rendsburg-Eckernf\u00f6rde"
+        ],
+        [
+            "Q3011",
+            "Steinburg",
+            "Q2980",
+            "Segeberg"
+        ],
+        [
+            "Q3003",
+            "Stormarn",
+            "Q3000",
+            "Herzogtum Lauenburg"
+        ],
+        [
+            "Q3003",
+            "Stormarn",
+            "Q2843",
+            "L\u00fcbeck"
+        ],
+        [
+            "Q3003",
+            "Stormarn",
+            "Q2975",
+            "Ostholstein"
+        ],
+        [
+            "Q3003",
+            "Stormarn",
+            "Q2980",
+            "Segeberg"
+        ]
+    ],
+    "Q7888": [],
+    "Q7861": [],
+    "Q7070": [],
+    "Q1729": [],
+    "Q3750": [],
+    "Q7869": [],
+    "Q7887": [],
+    "Q7878": [],
+    "Q3150": [],
+    "Q7862": [],
+    "Q7872": [],
+    "Q7882": [],
+    "Q7858": [],
+    "Q7884": [],
+    "Q7883": [],
+    "Q7871": [],
+    "Q7875": [],
+    "Q14891": [],
+    "Q7865": [],
+    "Q7864": [],
+    "Q7866": [],
+    "Q3955": [],
+    "Q7879": [],
+    "Q1205": [
+        [
+            "Q7888",
+            "Altenburger Land",
+            "Q7887",
+            "Greiz"
+        ],
+        [
+            "Q7861",
+            "Eichsfeld",
+            "Q7862",
+            "Kyffh\u00e4userkreis"
+        ],
+        [
+            "Q7861",
+            "Eichsfeld",
+            "Q7858",
+            "Nordhausen"
+        ],
+        [
+            "Q7861",
+            "Eichsfeld",
+            "Q7864",
+            "Unstrut-Hainich-Kreis"
+        ],
+        [
+            "Q1729",
+            "Erfurt",
+            "Q7869",
+            "Gotha"
+        ],
+        [
+            "Q1729",
+            "Erfurt",
+            "Q7878",
+            "Ilm-Kreis"
+        ],
+        [
+            "Q1729",
+            "Erfurt",
+            "Q7865",
+            "S\u00f6mmerda"
+        ],
+        [
+            "Q1729",
+            "Erfurt",
+            "Q7879",
+            "Weimarer Land"
+        ],
+        [
+            "Q3750",
+            "Gera",
+            "Q7887",
+            "Greiz"
+        ],
+        [
+            "Q3750",
+            "Gera",
+            "Q7884",
+            "Saale-Holzland-Kreis"
+        ],
+        [
+            "Q7869",
+            "Gotha",
+            "Q1729",
+            "Erfurt"
+        ],
+        [
+            "Q7869",
+            "Gotha",
+            "Q7878",
+            "Ilm-Kreis"
+        ],
+        [
+            "Q7869",
+            "Gotha",
+            "Q7871",
+            "Schmalkalden-Meiningen"
+        ],
+        [
+            "Q7869",
+            "Gotha",
+            "Q7865",
+            "S\u00f6mmerda"
+        ],
+        [
+            "Q7869",
+            "Gotha",
+            "Q7864",
+            "Unstrut-Hainich-Kreis"
+        ],
+        [
+            "Q7869",
+            "Gotha",
+            "Q7866",
+            "Wartburgkreis"
+        ],
+        [
+            "Q7887",
+            "Greiz",
+            "Q7888",
+            "Altenburger Land"
+        ],
+        [
+            "Q7887",
+            "Greiz",
+            "Q3750",
+            "Gera"
+        ],
+        [
+            "Q7887",
+            "Greiz",
+            "Q7884",
+            "Saale-Holzland-Kreis"
+        ],
+        [
+            "Q7887",
+            "Greiz",
+            "Q7883",
+            "Saale-Orla-Kreis"
+        ],
+        [
+            "Q7878",
+            "Ilm-Kreis",
+            "Q1729",
+            "Erfurt"
+        ],
+        [
+            "Q7878",
+            "Ilm-Kreis",
+            "Q7869",
+            "Gotha"
+        ],
+        [
+            "Q7878",
+            "Ilm-Kreis",
+            "Q7872",
+            "Landkreis Hildburghausen"
+        ],
+        [
+            "Q7878",
+            "Ilm-Kreis",
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt"
+        ],
+        [
+            "Q7878",
+            "Ilm-Kreis",
+            "Q7871",
+            "Schmalkalden-Meiningen"
+        ],
+        [
+            "Q7878",
+            "Ilm-Kreis",
+            "Q14891",
+            "Suhl"
+        ],
+        [
+            "Q7878",
+            "Ilm-Kreis",
+            "Q7879",
+            "Weimarer Land"
+        ],
+        [
+            "Q3150",
+            "Jena",
+            "Q7884",
+            "Saale-Holzland-Kreis"
+        ],
+        [
+            "Q3150",
+            "Jena",
+            "Q7879",
+            "Weimarer Land"
+        ],
+        [
+            "Q7862",
+            "Kyffh\u00e4userkreis",
+            "Q7861",
+            "Eichsfeld"
+        ],
+        [
+            "Q7862",
+            "Kyffh\u00e4userkreis",
+            "Q7858",
+            "Nordhausen"
+        ],
+        [
+            "Q7862",
+            "Kyffh\u00e4userkreis",
+            "Q7865",
+            "S\u00f6mmerda"
+        ],
+        [
+            "Q7862",
+            "Kyffh\u00e4userkreis",
+            "Q7864",
+            "Unstrut-Hainich-Kreis"
+        ],
+        [
+            "Q7872",
+            "Landkreis Hildburghausen",
+            "Q7878",
+            "Ilm-Kreis"
+        ],
+        [
+            "Q7872",
+            "Landkreis Hildburghausen",
+            "Q7871",
+            "Schmalkalden-Meiningen"
+        ],
+        [
+            "Q7872",
+            "Landkreis Hildburghausen",
+            "Q14891",
+            "Suhl"
+        ],
+        [
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt",
+            "Q7878",
+            "Ilm-Kreis"
+        ],
+        [
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt",
+            "Q7872",
+            "Landkreis Hildburghausen"
+        ],
+        [
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt",
+            "Q7884",
+            "Saale-Holzland-Kreis"
+        ],
+        [
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt",
+            "Q7883",
+            "Saale-Orla-Kreis"
+        ],
+        [
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt",
+            "Q7875",
+            "Sonneberg"
+        ],
+        [
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt",
+            "Q7879",
+            "Weimarer Land"
+        ],
+        [
+            "Q7858",
+            "Nordhausen",
+            "Q7861",
+            "Eichsfeld"
+        ],
+        [
+            "Q7858",
+            "Nordhausen",
+            "Q7862",
+            "Kyffh\u00e4userkreis"
+        ],
+        [
+            "Q7884",
+            "Saale-Holzland-Kreis",
+            "Q3750",
+            "Gera"
+        ],
+        [
+            "Q7884",
+            "Saale-Holzland-Kreis",
+            "Q7887",
+            "Greiz"
+        ],
+        [
+            "Q7884",
+            "Saale-Holzland-Kreis",
+            "Q3150",
+            "Jena"
+        ],
+        [
+            "Q7884",
+            "Saale-Holzland-Kreis",
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt"
+        ],
+        [
+            "Q7884",
+            "Saale-Holzland-Kreis",
+            "Q7883",
+            "Saale-Orla-Kreis"
+        ],
+        [
+            "Q7884",
+            "Saale-Holzland-Kreis",
+            "Q7879",
+            "Weimarer Land"
+        ],
+        [
+            "Q7883",
+            "Saale-Orla-Kreis",
+            "Q7887",
+            "Greiz"
+        ],
+        [
+            "Q7883",
+            "Saale-Orla-Kreis",
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt"
+        ],
+        [
+            "Q7883",
+            "Saale-Orla-Kreis",
+            "Q7884",
+            "Saale-Holzland-Kreis"
+        ],
+        [
+            "Q7871",
+            "Schmalkalden-Meiningen",
+            "Q7869",
+            "Gotha"
+        ],
+        [
+            "Q7871",
+            "Schmalkalden-Meiningen",
+            "Q7878",
+            "Ilm-Kreis"
+        ],
+        [
+            "Q7871",
+            "Schmalkalden-Meiningen",
+            "Q7872",
+            "Landkreis Hildburghausen"
+        ],
+        [
+            "Q7871",
+            "Schmalkalden-Meiningen",
+            "Q14891",
+            "Suhl"
+        ],
+        [
+            "Q7871",
+            "Schmalkalden-Meiningen",
+            "Q7866",
+            "Wartburgkreis"
+        ],
+        [
+            "Q7875",
+            "Sonneberg",
+            "Q7872",
+            "Landkreis Hildburghausen"
+        ],
+        [
+            "Q7875",
+            "Sonneberg",
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt"
+        ],
+        [
+            "Q14891",
+            "Suhl",
+            "Q7878",
+            "Ilm-Kreis"
+        ],
+        [
+            "Q14891",
+            "Suhl",
+            "Q7872",
+            "Landkreis Hildburghausen"
+        ],
+        [
+            "Q14891",
+            "Suhl",
+            "Q7871",
+            "Schmalkalden-Meiningen"
+        ],
+        [
+            "Q7865",
+            "S\u00f6mmerda",
+            "Q1729",
+            "Erfurt"
+        ],
+        [
+            "Q7865",
+            "S\u00f6mmerda",
+            "Q7869",
+            "Gotha"
+        ],
+        [
+            "Q7865",
+            "S\u00f6mmerda",
+            "Q7862",
+            "Kyffh\u00e4userkreis"
+        ],
+        [
+            "Q7865",
+            "S\u00f6mmerda",
+            "Q7864",
+            "Unstrut-Hainich-Kreis"
+        ],
+        [
+            "Q7865",
+            "S\u00f6mmerda",
+            "Q7879",
+            "Weimarer Land"
+        ],
+        [
+            "Q7864",
+            "Unstrut-Hainich-Kreis",
+            "Q7861",
+            "Eichsfeld"
+        ],
+        [
+            "Q7864",
+            "Unstrut-Hainich-Kreis",
+            "Q7869",
+            "Gotha"
+        ],
+        [
+            "Q7864",
+            "Unstrut-Hainich-Kreis",
+            "Q7862",
+            "Kyffh\u00e4userkreis"
+        ],
+        [
+            "Q7864",
+            "Unstrut-Hainich-Kreis",
+            "Q7865",
+            "S\u00f6mmerda"
+        ],
+        [
+            "Q7864",
+            "Unstrut-Hainich-Kreis",
+            "Q7866",
+            "Wartburgkreis"
+        ],
+        [
+            "Q7866",
+            "Wartburgkreis",
+            "Q7070",
+            "Eisenach"
+        ],
+        [
+            "Q7866",
+            "Wartburgkreis",
+            "Q7869",
+            "Gotha"
+        ],
+        [
+            "Q7866",
+            "Wartburgkreis",
+            "Q7871",
+            "Schmalkalden-Meiningen"
+        ],
+        [
+            "Q7866",
+            "Wartburgkreis",
+            "Q7864",
+            "Unstrut-Hainich-Kreis"
+        ],
+        [
+            "Q3955",
+            "Weimar",
+            "Q7879",
+            "Weimarer Land"
+        ],
+        [
+            "Q7879",
+            "Weimarer Land",
+            "Q1729",
+            "Erfurt"
+        ],
+        [
+            "Q7879",
+            "Weimarer Land",
+            "Q7878",
+            "Ilm-Kreis"
+        ],
+        [
+            "Q7879",
+            "Weimarer Land",
+            "Q3150",
+            "Jena"
+        ],
+        [
+            "Q7879",
+            "Weimarer Land",
+            "Q7882",
+            "Landkreis Saalfeld-Rudolstadt"
+        ],
+        [
+            "Q7879",
+            "Weimarer Land",
+            "Q7884",
+            "Saale-Holzland-Kreis"
+        ],
+        [
+            "Q7879",
+            "Weimarer Land",
+            "Q7865",
+            "S\u00f6mmerda"
+        ],
+        [
+            "Q7879",
+            "Weimarer Land",
+            "Q3955",
+            "Weimar"
+        ]
+    ],
+    "Q183": [
+        [
+            "Q985",
+            "Baden-W\u00fcrttemberg",
+            "Q980",
+            "Bavaria"
+        ],
+        [
+            "Q985",
+            "Baden-W\u00fcrttemberg",
+            "Q1199",
+            "Hesse"
+        ],
+        [
+            "Q985",
+            "Baden-W\u00fcrttemberg",
+            "Q1200",
+            "Rhineland-Palatinate"
+        ],
+        [
+            "Q980",
+            "Bavaria",
+            "Q985",
+            "Baden-W\u00fcrttemberg"
+        ],
+        [
+            "Q980",
+            "Bavaria",
+            "Q1199",
+            "Hesse"
+        ],
+        [
+            "Q980",
+            "Bavaria",
+            "Q1202",
+            "Saxony"
+        ],
+        [
+            "Q980",
+            "Bavaria",
+            "Q1205",
+            "Thuringia"
+        ],
+        [
+            "Q64",
+            "Berlin",
+            "Q1208",
+            "Brandenburg"
+        ],
+        [
+            "Q1208",
+            "Brandenburg",
+            "Q64",
+            "Berlin"
+        ],
+        [
+            "Q1208",
+            "Brandenburg",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1208",
+            "Brandenburg",
+            "Q1196",
+            "Mecklenburg-Western Pomerania"
+        ],
+        [
+            "Q1208",
+            "Brandenburg",
+            "Q1202",
+            "Saxony"
+        ],
+        [
+            "Q1208",
+            "Brandenburg",
+            "Q1206",
+            "Saxony-Anhalt"
+        ],
+        [
+            "Q1209",
+            "Free Hanseatic City of Bremen",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1055",
+            "Hamburg",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1055",
+            "Hamburg",
+            "Q1194",
+            "Schleswig-Holstein"
+        ],
+        [
+            "Q1199",
+            "Hesse",
+            "Q985",
+            "Baden-W\u00fcrttemberg"
+        ],
+        [
+            "Q1199",
+            "Hesse",
+            "Q980",
+            "Bavaria"
+        ],
+        [
+            "Q1199",
+            "Hesse",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1199",
+            "Hesse",
+            "Q1198",
+            "North Rhine-Westphalia"
+        ],
+        [
+            "Q1199",
+            "Hesse",
+            "Q1200",
+            "Rhineland-Palatinate"
+        ],
+        [
+            "Q1199",
+            "Hesse",
+            "Q1205",
+            "Thuringia"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1208",
+            "Brandenburg"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1209",
+            "Free Hanseatic City of Bremen"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1055",
+            "Hamburg"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1199",
+            "Hesse"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1196",
+            "Mecklenburg-Western Pomerania"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1198",
+            "North Rhine-Westphalia"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1206",
+            "Saxony-Anhalt"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1194",
+            "Schleswig-Holstein"
+        ],
+        [
+            "Q1197",
+            "Lower Saxony",
+            "Q1205",
+            "Thuringia"
+        ],
+        [
+            "Q1196",
+            "Mecklenburg-Western Pomerania",
+            "Q1208",
+            "Brandenburg"
+        ],
+        [
+            "Q1196",
+            "Mecklenburg-Western Pomerania",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1196",
+            "Mecklenburg-Western Pomerania",
+            "Q1194",
+            "Schleswig-Holstein"
+        ],
+        [
+            "Q1198",
+            "North Rhine-Westphalia",
+            "Q1199",
+            "Hesse"
+        ],
+        [
+            "Q1198",
+            "North Rhine-Westphalia",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1198",
+            "North Rhine-Westphalia",
+            "Q1200",
+            "Rhineland-Palatinate"
+        ],
+        [
+            "Q1200",
+            "Rhineland-Palatinate",
+            "Q985",
+            "Baden-W\u00fcrttemberg"
+        ],
+        [
+            "Q1200",
+            "Rhineland-Palatinate",
+            "Q1199",
+            "Hesse"
+        ],
+        [
+            "Q1200",
+            "Rhineland-Palatinate",
+            "Q1198",
+            "North Rhine-Westphalia"
+        ],
+        [
+            "Q1200",
+            "Rhineland-Palatinate",
+            "Q1201",
+            "Saarland"
+        ],
+        [
+            "Q1201",
+            "Saarland",
+            "Q1200",
+            "Rhineland-Palatinate"
+        ],
+        [
+            "Q1202",
+            "Saxony",
+            "Q980",
+            "Bavaria"
+        ],
+        [
+            "Q1202",
+            "Saxony",
+            "Q1208",
+            "Brandenburg"
+        ],
+        [
+            "Q1202",
+            "Saxony",
+            "Q1206",
+            "Saxony-Anhalt"
+        ],
+        [
+            "Q1202",
+            "Saxony",
+            "Q1205",
+            "Thuringia"
+        ],
+        [
+            "Q1206",
+            "Saxony-Anhalt",
+            "Q1208",
+            "Brandenburg"
+        ],
+        [
+            "Q1206",
+            "Saxony-Anhalt",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1206",
+            "Saxony-Anhalt",
+            "Q1202",
+            "Saxony"
+        ],
+        [
+            "Q1206",
+            "Saxony-Anhalt",
+            "Q1205",
+            "Thuringia"
+        ],
+        [
+            "Q1194",
+            "Schleswig-Holstein",
+            "Q1055",
+            "Hamburg"
+        ],
+        [
+            "Q1194",
+            "Schleswig-Holstein",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1194",
+            "Schleswig-Holstein",
+            "Q1196",
+            "Mecklenburg-Western Pomerania"
+        ],
+        [
+            "Q1205",
+            "Thuringia",
+            "Q980",
+            "Bavaria"
+        ],
+        [
+            "Q1205",
+            "Thuringia",
+            "Q1199",
+            "Hesse"
+        ],
+        [
+            "Q1205",
+            "Thuringia",
+            "Q1197",
+            "Lower Saxony"
+        ],
+        [
+            "Q1205",
+            "Thuringia",
+            "Q1202",
+            "Saxony"
+        ],
+        [
+            "Q1205",
+            "Thuringia",
+            "Q1206",
+            "Saxony-Anhalt"
+        ]
+    ]
+}

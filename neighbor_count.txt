@@ -1,0 +1,232 @@
+Q8167(Freiburg Government Region): 0
+Q8165(Karlsruhe Government Region): 1
+Q8172(Stuttgart Government Region): 1
+Q8170(Tübingen Government Region): 0
+Q985(Baden-Württemberg): 13
+Q10559(Lower Bavaria): 5
+Q10547(Lower Franconia): 7
+Q10551(Middle Franconia): 5
+Q10557(Swabia): 2
+Q10562(Upper Bavaria): 4
+Q10554(Upper Franconia): 3
+Q10555(Upper Palatinate): 4
+Q980(Bavaria): 12
+Q158095(Charlottenburg-Wilmersdorf): 5
+Q158893(Friedrichshain-Kreuzberg): 6
+Q329609(Lichtenberg): 4
+Q119284(Marzahn-Hellersdorf): 2
+Q163966(Mitte): 5
+Q4071168(Neukölln): 3
+Q163012(Pankow): 4
+Q158876(Reinickendorf): 4
+Q158083(Spandau): 3
+Q158064(Steglitz-Zehlendorf): 4
+Q158106(Tempelhof-Schöneberg): 5
+Q158089(Treptow-Köpenick): 5
+Q64(Berlin): 12
+Q6115(Barnim District): 4
+Q3931(Brandenburg an der Havel): 2
+Q3214(Cottbus): 1
+Q6173(Dahme-Spreewald District): 6
+Q6152(Elbe-Elster District): 6
+Q4024(Frankfurt (Oder)): 3
+Q6139(Havelland District): 8
+Q6181(Märkisch-Oderland District): 5
+Q6119(Oberhavel District): 6
+Q6156(Oberspreewald-Lausitz District): 5
+Q6178(Oder-Spree District): 5
+Q6125(Ostprignitz-Ruppin District): 6
+Q1711(Potsdam): 4
+Q6142(Potsdam-Mittelmark District): 8
+Q6132(Prignitz District): 4
+Q6165(Spree-Neiße District): 6
+Q6146(Teltow-Fläming District): 5
+Q6109(Uckermark District): 4
+Q1208(Brandenburg): 9
+Q24879(Bremen): 6
+Q2706(Bremerhaven): 2
+Q1209(Free Hanseatic City of Bremen): 1
+Q1630(Altona): 4
+Q1637(Bergedorf): 5
+Q1632(Eimsbüttel): 5
+Q1626(Hamburg-Mitte): 9
+Q1627(Hamburg-Nord): 4
+Q1635(Harburg): 3
+Q1633(Wandsbek): 4
+Q1055(Hamburg): 14
+Q7932(Darmstadt Government Region): 1
+Q7931(Giessen Government Region): 0
+Q7928(Kassel Government Region): 6
+Q1199(Hesse): 6
+Q5947(Ammerland): 6
+Q5929(Aurich): 3
+Q2773(Brunswick): 11
+Q5919(Celle (district)): 4
+Q5945(Cloppenburg): 6
+Q5939(County of Bentheim): 5
+Q5897(Cuxhaven): 6
+Q3907(Delmenhorst): 4
+Q5956(Diepholz): 8
+Q4174(Emden): 2
+Q5936(Emsland): 7
+Q5932(Friesland): 5
+Q6053(Gifhorn): 9
+Q6040(Goslar): 6
+Q6022(Göttingen district): 7
+Q5970(Hamelin-Pyrmont): 5
+Q5963(Hanover region): 8
+Q5907(Harburg): 8
+Q5922(Heidekreis): 8
+Q6047(Helmstedt district): 6
+Q5978(Hildesheim): 8
+Q5973(Holzminden): 5
+Q5958(Landkreis Nienburg/Weser): 6
+Q5934(Leer): 8
+Q5913(Lüchow-Dannenberg District): 6
+Q5910(Lüneburg): 6
+Q6018(Northeim): 6
+Q5952(Oldenburg): 7
+Q5940(Osnabrück): 10
+Q5926(Osterholz): 5
+Q6045(Peine): 5
+Q5923(Rotenburg (Wümme)): 6
+Q3200(Salzgitter): 6
+Q5966(Schaumburg): 5
+Q5906(Stade): 10
+Q5915(Uelzen District): 6
+Q5941(Vechta): 4
+Q5927(Verden): 6
+Q5948(Wesermarsch): 9
+Q3857(Wilhelmshaven): 3
+Q5931(Wittmund): 3
+Q6041(Wolfenbüttel): 6
+Q3014(Wolfsburg): 15
+Q1197(Lower Saxony): 12
+Q2905(Ludwigslust-Parchim District): 9
+Q2902(Mecklenburgische Seenplatte District): 7
+Q2876(Nordwestmecklenburg District): 5
+Q2861(Rostock): 14
+Q2898(Rostock District): 5
+Q1709(Schwerin): 2
+Q2917(Vorpommern-Greifswald District): 3
+Q2909(Vorpommern-Rügen District): 3
+Q1196(Mecklenburg-Western Pomerania): 3
+Q7924(Arnsberg Government Region): 0
+Q7927(Cologne Government Region): 0
+Q7923(Detmold Government Region): 0
+Q7926(Düsseldorf Government Region): 0
+Q7920(Münster Government Region): 0
+Q1198(North Rhine-Westphalia): 8
+Q8596(Ahrweiler): 6
+Q8608(Altenkirchen district): 6
+Q8566(Alzey-Worms): 7
+Q8557(Bad Dürkheim): 10
+Q8572(Bad Kreuznach): 6
+Q8585(Bernkastel-Wittlich): 6
+Q8575(Birkenfeld): 6
+Q8590(Cochem-Zell): 4
+Q8564(Donnersbergkreis): 5
+Q8580(Eifelkreis Bitburg-Prüm): 8
+Q6905(Frankenthal (Pfalz)): 3
+Q8543(Germersheim): 5
+Q3758(Kaiserslautern): 2
+Q3104(Koblenz): 3
+Q8562(Kusel): 7
+Q7052(Landau in der Pfalz): 3
+Q8559(Landkreis Kaiserslautern): 6
+Q2910(Ludwigshafen): 3
+Q1720(Mainz): 3
+Q8569(Mainz-Bingen): 8
+Q8593(Mayen-Koblenz): 8
+Q4149(Neustadt an der Weinstraße): 3
+Q8606(Neuwied): 5
+Q14849(Pirmasens): 1
+Q8574(Rhein-Hunsrück-Kreis): 7
+Q8601(Rhein-Lahn-Kreis): 7
+Q8554(Rhein-Pfalz-Kreis): 12
+Q6829(Speyer): 3
+Q8551(Südliche Weinstraße): 6
+Q8552(Südwestpfalz): 7
+Q3138(Trier): 2
+Q8579(Trier-Saarburg): 7
+Q8583(Vulkaneifel): 6
+Q8602(Westerwaldkreis): 8
+Q3852(Worms): 4
+Q16017(Zweibrücken): 2
+Q1200(Rhineland-Palatinate): 9
+Q6802(Merzig-Wadern): 4
+Q6799(Neunkirchen): 5
+Q6805(Regionalverband Saarbrücken): 3
+Q6794(Saarlouis): 4
+Q6793(Saarpfalz-Kreis): 6
+Q6789(St. Wendel): 6
+Q1201(Saarland): 3
+Q571947(Bautzen District): 7
+Q2795(Chemnitz): 5
+Q1731(Dresden): 9
+Q6339(Erzgebirgskreis): 4
+Q6317(Görlitz): 6
+Q6308(Landkreis Leipzig): 6
+Q2079(Leipzig): 14
+Q6313(Meissen District): 7
+Q6328(Mittelsachsen): 8
+Q6301(Nordsachsen): 8
+Q6323(Sächsische Schweiz-Osterzgebirge): 4
+Q6337(Vogtlandkreis): 5
+Q6330(Zwickau): 6
+Q1202(Saxony): 7
+Q6061(Altmarkkreis Salzwedel): 5
+Q6071(Anhalt-Bitterfeld): 7
+Q6102(Burgenlandkreis): 9
+Q6064(Börde): 8
+Q3828(Dessau-Roßlau): 2
+Q2814(Halle (Saale)): 1
+Q6087(Harz District): 7
+Q6068(Jerichower Land): 7
+Q1733(Magdeburg): 3
+Q6092(Mansfeld-Südharz): 5
+Q6098(Saalekreis): 8
+Q6081(Salzlandkreis): 7
+Q6057(Stendal District): 7
+Q6075(Wittenberg): 6
+Q1206(Saxony-Anhalt): 4
+Q2947(Dithmarschen): 6
+Q3798(Flensburg): 1
+Q3000(Herzogtum Lauenburg): 8
+Q1707(Kiel): 2
+Q2843(Lübeck): 5
+Q3879(Neumünster): 3
+Q2937(Nordfriesland district): 2
+Q2975(Ostholstein): 4
+Q3006(Pinneberg): 6
+Q2970(Plön District): 5
+Q2967(Rendsburg-Eckernförde): 7
+Q2941(Schleswig-Flensburg): 4
+Q2980(Segeberg): 11
+Q3011(Steinburg): 5
+Q3003(Stormarn): 8
+Q1194(Schleswig-Holstein): 4
+Q7888(Altenburger Land): 5
+Q7861(Eichsfeld): 5
+Q7070(Eisenach): 9
+Q1729(Erfurt): 4
+Q3750(Gera): 3
+Q7869(Gotha): 6
+Q7887(Greiz): 7
+Q7878(Ilm-Kreis): 7
+Q3150(Jena): 2
+Q7862(Kyffhäuserkreis): 7
+Q7872(Landkreis Hildburghausen): 6
+Q7882(Landkreis Saalfeld-Rudolstadt): 7
+Q7858(Nordhausen): 6
+Q7884(Saale-Holzland-Kreis): 7
+Q7883(Saale-Orla-Kreis): 6
+Q7871(Schmalkalden-Meiningen): 7
+Q7875(Sonneberg): 4
+Q14891(Suhl): 3
+Q7865(Sömmerda): 6
+Q7864(Unstrut-Hainich-Kreis): 6
+Q7866(Wartburgkreis): 7
+Q3955(Weimar): 1
+Q7879(Weimarer Land): 8
+Q1205(Thuringia): 6
