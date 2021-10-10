@@ -1,1 +1,1 @@
-Lab course AILV: construct and train N-balls and N-boxes.
+For Fraunhofer Lab course "AI language and Vision": construct, train and evaluate N-balls and N-boxes.
